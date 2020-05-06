@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Aggone
+
+  Created by tiexiong on 5/15/18.
+  Copyright © 2018 tiexiong. All rights reserved.
+*/
+
+"profil_stats_of_this_year" = "Stats of this year";
+"profil_confrontation" = "Confrontation";
+"profil_victory" = "Victory";
+"profil_defeat" = "Defeat";

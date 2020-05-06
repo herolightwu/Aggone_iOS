@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "2vN-pZ-1Vr"; */
+"2vN-pZ-1Vr.text" = "Position";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "80f-W7-fKh"; */
+"80f-W7-fKh.placeholder" = "Month";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "A0i-2L-GNe"; */
+"A0i-2L-GNe.text" = "Sport";
+
+/* Class = "UILabel"; text = "Add any relevant images here"; ObjectID = "I1I-JG-WgP"; */
+"I1I-JG-WgP.text" = "Add any relevant images here";
+
+/* Class = "UILabel"; text = "Club Name"; ObjectID = "Krn-qo-BWT"; */
+"Krn-qo-BWT.text" = "Club Name";
+
+/* Class = "UILabel"; text = "Career"; ObjectID = "Oh9-Te-yLZ"; */
+"Oh9-Te-yLZ.text" = "Career";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "RLx-Ja-kVG"; */
+"RLx-Ja-kVG.placeholder" = "Year";
+
+/* Class = "UITextField"; placeholder = "Month"; ObjectID = "TwW-T5-k4u"; */
+"TwW-T5-k4u.placeholder" = "Month";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Z95-h7-5MX"; */
+"Z95-h7-5MX.text" = "Location";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "ZgN-vO-bRa"; */
+"ZgN-vO-bRa.text" = "From";
+
+/* Class = "UILabel"; text = "(leave this if your presently on this club)"; ObjectID = "cCe-Xy-hfq"; */
+"cCe-Xy-hfq.text" = "(leave this if your presently on this club)";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "hfp-uN-Juc"; */
+"hfp-uN-Juc.text" = "To";
+
+/* Class = "UITextField"; placeholder = "Day"; ObjectID = "iwv-kp-A6F"; */
+"iwv-kp-A6F.placeholder" = "Day";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "vzZ-x1-qjq"; */
+"vzZ-x1-qjq.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Day"; ObjectID = "wjo-TW-cNr"; */
+"wjo-TW-cNr.placeholder" = "Day";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "yG2-j8-c1Q"; */
+"yG2-j8-c1Q.placeholder" = "Year";

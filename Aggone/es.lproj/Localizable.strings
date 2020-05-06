@@ -1,0 +1,413 @@
+/* 
+  Localizable.strings
+  Aggone
+
+  Created by tiexiong on 5/15/18.
+  Copyright © 2018 tiexiong. All rights reserved.
+*/
+
+"player" = "Jugador";
+"coach" = "Entrenador";
+"team_club" = "Equipo/club";
+"agent" = "Agente";
+"staff" = "Personal";
+"company" = "Empresa";
+"company_desc" = "Marca/patrocinador/Média ...";
+"select" = "elegir ";
+"txt_select" = "selecto";
+"txt_selected" = "Seleccionado";
+"txt_tagged_users" = "Usuarios etiquetados";
+
+"reset" = "Reiniciar";
+"apply" = "Aplicar";
+"txt_sport" = "Deporte";
+"txt_city" = "Ciudad";
+"txt_country" = "País";
+"txt_gender" = "Género";
+"txt_people" = "Personas";
+"txt_video" = "Video";
+"txt_news" = "Noticias";
+"txt_recommendations" = "Recomendación";
+"txt_specialty" = "Especialidad";
+"txt_available" = "Disponible para clubes";
+
+"pf_videos" = "Videos";
+"pf_prizes" = "Premios";
+"pf_career" = "Carrera";
+"pf_description" = "Descripción";
+"pf_news" = "Noticias";
+"pf_trophies" = "Trofeos";
+"pf_team" = "Equipo";
+"pf_history" = "Historia";
+"pf_details" = "Detalles";
+"pf_email" = "Correo electrónico";
+"pf_phone" = "Teléfono";
+"pf_website" = "Sitio web";
+"pf_story" = "Historias";
+"add_resume" = "Añadir currículum";
+"stats_disable_noti" = "Vous ne pouvez pas accéder à cette page";
+"stats_disable_desc" = "Esta página no es accesible para su tipo de cuenta. Puede cambiar el tipo de cuenta desde la configuración.";
+
+"profile_audience" = "Audiencia";
+"audience_story_views" = "Vistas de la historia";
+"audience_today" = "Hoy";
+"audience_week" = "semana";
+"audience_month" = "Mes";
+"audience_visitors" = "Visitantes";
+"audience_total_profile" = "Perfil total";
+"audience_visits" = "Visitas";
+"audience_total_views" = "Vistas totales";
+"audience_view_video" = "Ver en video";
+"audience_star_video" = "Estrellas en video";
+"audience_views_suffix" = "vistas";
+
+"gender_man" = "Hombre";
+"gender_woman" = "Mujer";
+"gender_other" = "Otro";
+
+"menu_modify_profile" = "Modificar perfil";
+"menu_change_password" = "Cambia la contraseña";
+"menu_my_subscription" = "mis Suscripciónes";
+"menu_my_subscribers" = "Mis suscriptores";
+"menu_recorded" = "Grabado";
+"menu_blocked_users" = "Bloquear usuario";
+"menu_terms_conditions" = "Condición de uso";
+"menu_contact_us" = "Contáctenos";
+"menu_sign_out" = "desconectar";
+"menu_view" = "Vistas";
+"menu_ad" = "Anuncio";
+
+"menu_block" = "Bloqueado";
+"menu_unblock" = "Desatascar";
+"menu_report" = "Reporte";
+
+"current_password" = "Contraseña actual";
+"new_password" = "Nueva contraseña";
+"retype_password" = "Vuelva a escribir la contraseña";
+"btn_confirm" = "Confirmar";
+
+"add_more_news" = "Añadir más Newz";
+"add_more_news_description" = "Puedes agregar todas las nuevas noticias de tendencias sobre tu club";
+"add_history" = "Agregar/editar historial";
+"add_history_description" = "Escribe tu bio...";
+"dialog_attachment" = "Adjuntos Disponibles";
+
+"description_1" = "Velocidad";
+"description_2" = "Fuerza";
+"description_3" = "Explosividad";
+"description_4" = "Aceleración";
+"description_5" = "Aguante";
+"description_6" = "Coordinación";
+
+"description_7" = "Fuerza de choque";
+"description_8" = "Controlar";
+"description_9" = "Defensivo";
+"description_10" = "Ofensiva";
+"description_11" = "Precisión";
+"description_12" = "Refinamiento";
+
+"description_13" = "Motivación";
+"description_14" = "Concentración";
+"description_15" = "Reflexión";
+"description_16" = "Adaptación";
+"description_17" = "Mental";
+"description_18" = "Comunicación";
+
+"description_19" = "Juego de inteligencia";
+"description_20" = "Espíritu de equipo";
+"description_21" = "Creatividad";
+"description_22" = "Construcción del juego";
+"description_23" = "Toma de decisiones";
+"description_24" = "Ejecución";
+
+"cdescription_1" = "Técnico";
+"cdescription_2" = "Táctico";
+"cdescription_3" = "Fisiología";
+"cdescription_4" = "Psicología";
+"cdescription_5" = "Organizar/juego";
+"cdescription_6" = "Construcción del juego";
+
+"cdescription_7" = "Entrenar a los atletas";
+"cdescription_8" = "Entrenadores";
+"cdescription_9" = "Evaluar atletas";
+"cdescription_10" = "Identificar el progreso.";
+"cdescription_11" = "Pedagogía";
+"cdescription_12" = "Explique";
+
+"cdescription_13" = "Administrar fortalezas";
+"cdescription_14" = "Gestionar debilidades";
+"cdescription_15" = "Analizar juego";
+"cdescription_16" = "Comunicación";
+"cdescription_17" = "Reglas de seguridad";
+"cdescription_18" = "Gestión administrativa";
+
+"cdescription_19" = "Hombres líderes";
+"cdescription_20" = "Fuerza/personaje";
+"cdescription_21" = "Espíritu de equipo";
+"cdescription_22" = "Persuasivo";
+"cdescription_23" = "Dinámica";
+"cdescription_24" = "Observador";
+
+"category_1" = "Físico";
+"category_2" = "Técnico";
+"category_3" = "Psicológico";
+"category_4" = "táctico";
+
+"ccategory_1" = "Conocimiento";
+"ccategory_2" = "Técnico";
+"ccategory_3" = "Habilidades directivas";
+"ccategory_4" = "Calidades";
+
+"name" = "Nombre";
+"category" = "Categoría";
+"club" = "club";
+"position" = "Posición";
+"contract" = "Contrato";
+
+"american_football" = "am fútbol";
+"athletics" = "Atletismo";
+"badminton" = "Bádminton";
+"baseball" = "Béisbol";
+"basketball" = "Baloncesto";
+"boxing" = "boxeo";
+"climbing" = "Alpinismo";
+"cricket" = "Cricket";
+"cycling" = "Ciclismo";
+"dance" = "Danza";
+"equestrianism" = "Ecuestre";
+"fencing" = "Esgrima";
+"football" = "fútbol";
+"golf" = "Golf";
+"gymnastic" = "Gimnástico";
+"handball" = "Balonmano";
+"judo" = "Judo";
+"martial_art" = "Arte marcial";
+"rugby" = "Rugby";
+"skiing" = "Esquí";
+"snowboarding" = "Snowboarding";
+"squash" = "Squash";
+"swimming" = "natación";
+"table_tennis" = "Tenis de Mesa";
+"tennis" = "Tenis";
+"volleyball" = "Voleibol";
+"water_sports" = "Deportes acuáticos";
+"wrestling" = "Lucha";
+"ice_hockey" = "Hockey sobre hielo";
+"field_hockey" = "Hockey sobre el campo";
+"mma" = "MMA";
+"kick_boxing" = "kick Boxing";
+"water_polo" = "Polo de agua";
+"auto_racing" = "Auto Racing";
+"moto_racing" = "Moto Racing";
+"polo_sport" = "Polo Sport";
+"softball" = "Softball";
+"sepak_takraw" = "Sepak Takraw";
+"korfball" = "Korfball";
+"floorball" = "Floorball";
+"mountaineering" = "Montañería";
+"canyoning" = "Barranquismo";
+"trail" = "Trail";
+"triathlon" = "Triatlón";
+"archery" = "Tiro al arco";
+"ice_skating" = "Ice Skating";
+"petanque" = "Petanque";
+"skate_board" = "Skateboard";
+"weightlifting" = "Levantamiento de pesas";
+"crossfit_fitness" = "Crossfit&amp;Fitness";
+"surf" = "Surf";
+"sailing" = "Sailing";
+"canoeing" = "Canotaje";
+"rowing" = "Rowing";
+"air_sports" = "Deportes aéreos";
+"winter_sports" = "Deportes de invierno";
+"bowling" = "Bowling";
+
+"statistics" = "Estadística";
+"match_win_percent" = "Partido Ganar %";
+"match" = "Partido";
+"ratio" = "Cociente";
+
+"club_name" = "Nombre del club";
+"total" = "Total";
+"year_name" = "Año";
+
+"performance" = "Rendimiento";
+
+"follow" = "Suscribir";
+"following" = "Darse de baja";
+
+"my" = "Mis";
+"world" = "mundo";
+
+"notification_follow" = "Esta persona te siguió";
+"notification_like" = "A esta persona le gustó tu video";
+"notification_chat" = "Esta persona le envió un mensaje";
+
+"txt_victory" = "Victoria";
+"txt_defeat" = "Derrota";
+"txt_draw" = "Empate";
+
+"txt_jan" = "Ene";
+"txt_feb" = "Feb";
+"txt_mar" = "Mar";
+"txt_apr" = "Abr";
+"txt_may" = "May";
+"txt_jun" = "Jun";
+"txt_jul" = "Jul";
+"txt_aug" = "Ago";
+"txt_sep" = "Sep";
+"txt_oct" = "Oct";
+"txt_nov" = "Nov";
+"txt_dec" = "Dic";
+
+"months_array" = "Ene,Feb,Mar,Abr,May,Jun,Jul,Ago,Sep,Oct,Nov,Dic";
+
+"month_name_array" = "Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Septiembre,Octubre,Noviembre,Diciembre";
+
+"week_day_array" = "Dom,Lun,Mar,Mié,Jue,Vie,Sáb";
+
+"weeks_array" = "1a semana,2a semana,3a semana,4a semana";
+
+"stat_american_football_key" = "Games_played,Victories,Defeats,Draws,Points_scored,Touchdowns,Attempts,Yards,Assist,successful_races,Interceptions,Tackle,Completions,Sack,First_Down,Fumble,Reception,Blocked";
+"stat_american_football" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos anotados,Touchdowns,Intentos,Yardas,Asistencias,Carreras exitosas,Intercepciones,Tackle,Finalización,Saco,First Down,Fumble,Recepciones,Bloqueo";
+"stat_american_football_s" = "J.J,V,D,E,Pts.A,Tds,Int,Yds,Ast,C.E,Int,Tcl,Fin,Sac,F.D,Fum,Rec,Blq";
+
+"stat_basketball_key" = "Games_played,Victories,Defeats,Draws,Points,Rebounds,Assists,Blocks,Steals";
+"stat_basketball" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos,Rebotes,Asistencias,Tapón,Intercepciones";
+"stat_basketball_s" = "J.J,V,D,E,Pts,Rbt,Ast,Tpn,Int";
+
+"stat_football_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Successful_passes,Interceptions,Clean_sheet,Goalkeeper_stop,Sanctions";
+"stat_football" = "Juegos jugados,Victorias,Derrotas,Empate,Goles,Asistencias,Pases exitosos,Intercepciones,Valla invicta,Parada portero,Sanciones";
+"stat_football_s" = "J.J,V,D,E,G,Ast,P.E,Int,V.A,P.P,S";
+
+"stat_rugby_key" = "Games_played,Victories,Defeats,Draws,Points,Tries,Conversion,Tackle,Drops,Penalties";
+"stat_rugby" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos,Intentos,Conversión,Tackle,Gotas,Sanciones";
+"stat_rugby_s" = "J.J,V,D,E,Pts,Int,Cvn,Tcl,Gts,S";
+
+"stat_cricket_key" = "Games_played,Victories,Defeats,Draws,Runs_scored,Batting_average,100s_50s,Top_score,Balls_bowled,Wickets,Bowling_average,5_wickets_in_innings,10_wickets_in_match,Best_bowling,Catches,Stumpings";
+"stat_cricket" = "Juegos jugados,Victorias,Derrotas,Empate,Carreras anotadas,Promedio bateo,100s/50s,Top score,Balls bowled,Wickets,Bowling average,5 wickets in innings,10 wickets in match,Best bowling,Catches,Stumpings";
+"stat_cricket_s" = "J.J,V,D,E,C.A,P.B,100s/50s,T.S,B.B,Wkt,Bow.A,Inns,10Wkts.M,B.B,C,S";
+
+"stat_hockey_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_hockey" = "Juegos jugados,Victorias,Derrotas,Empate,Goles,Asistencias,Intercepciones,Paradas exitosas,Sanciones";
+"stat_hockey_s" = "J.J,V,D,E,G,Ast,Int,P.E,S";
+
+"stat_baseball_key" = "Games_played,Victories,Defeats,Draws,Home_Run,Hits,Runs,Bases_on_Balls,At_Bats,Assists,Sacrifice_Flies,Strikeouts,Hit_by_Pitch";
+"stat_baseball" = "Juegos jugados,Victorias,Derrotas,Empate,Home Run,Hits,Carreras,Base por bolas,Al bate,Asistencias,Elevado sacrificio,Strikeouts,Hit by Pitch";
+"stat_baseball_s" = "J.J,V,D,E,H.R,H,C,B.B,AB,Ast,E.S,SO,HBP";
+
+"stat_handball_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Successful_passes,Interceptions,Clean_sheet,Goalkeeper_stop,Penalties";
+"stat_handball" = "Juegos jugados,Victorias,Derrotas,Empate,Goles,Asistencias,Pases exitosos,Intercepciones,Valla invicta,Parada portero,Sanciones";
+"stat_handball_s" = "J.J,V,D,E,G,Ast,P.E,Int,V.A,P.P,S";
+
+"stat_volleyball_key" = "Games_played,Victories,Defeats,Draws,Points,Assists,Successful_services,Successful_Receptions,Successful_passes,Bloc";
+"stat_volleyball" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos,Asistencias,Servicios exitosos,Recepciones exitosas,Pases exitosos,Tapón";
+"stat_volleyball_s" = "J.J,V,D,E,Pts,Ast,S.E,R.E,P.E,Tpn";
+
+"stat_tennis_key" = "Games_played,Victories,Defeats,Draws,Points_earned_in_the_service,Point_earned_in_Return_of_service,Ranking,PointsRanking";
+"stat_tennis" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos ganados servicio,Puntos ganados servicio devolución,Clasificación,Puntos clasificación";
+"stat_tennis_s" = "J.J,V,D,E,P.G.S,P.G.S.D,C,P.C";
+
+"stat_badminton_key" = "Games_played,Victories,Defeats,Draws,Points_earned_in_the_service,Point_earned_in_Return_of_service,Ranking,pointsRanking";
+"stat_badminton" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos ganados servicio,Puntos ganados servicio devolución,Clasificación,Puntos clasificación";
+"stat_badminton_s" = "J.J,V,D,E,P.G.S,P.G.S.D,C,P.C";
+
+"stat_golf_key" = "Games_played,Victories,Defeats,Draws,Fairway_InRegulation,Green_InRegulation,Number_of_putts,Ranking,PointsRanking";
+"stat_golf" = "Juegos jugados,Victorias,Derrotas,Empate,Fairway en la regulación,Verde en Regulación,Número de putts,Clasificación,Puntos clasificación";
+"stat_golf_s" = "J.J,V,D,E,FIR,GIR,Putts,C,P.C";
+
+"stat_athletics_key" = "Games_played,Victories,Defeats,Draws,Performance,Ranking,Points_Ranking";
+"stat_athletics" = "Juegos jugados,Victorias,Derrotas,Empate,Rendimiento,Clasificación,Puntos clasificación";
+"stat_athletics_s" = "J.J,V,D,E,Perf/Time,C,P.C";
+
+"stat_racing_key" = "Races,Victories,Defeats,Draws,Performance,Ranking,PointsRanking";
+"stat_racing" = "Razas,Victorias,Derrotas,Empate,Rendimiento,Clasificación,Puntos clasificación";
+"stat_racing_s" = "Razas,V,D,E,Perf/Time,C,P.C";
+
+"stat_judo_key" = "Games_played,Victories,Defeats,Draws,Ippons,Attempts,Waza_Ari,Ranking,PointsRanking";
+"stat_judo" = "Juegos jugados,Victorias,Derrotas,Empate,Ippons,Intentos,Waza-Ari,Clasificación,Puntos clasificación";
+"stat_judo_s" = "J.J,V,D,E,Ipp,Int,W.A,C,P.C";
+
+"stat_korfball_key" = "Games_played,Victories,Defeats,Draws,Points,Rebounds,Assists,Steals,Blocks";
+"stat_korfball" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos,Rebotes,Asistencias,Intercepciones,Tapón";
+"stat_korfball_s" = "J.J,V,D,E,Pts,Rbt,Ast,Int,Tpn";
+
+"stat_softball_key" = "Games_played,Victories,Defeats,Draws,Home_Run,Hits,Runs,Bases_on_Balls,At_Bats,Assists,Sacrifice_Flies,Strikeouts,Hit_by_Pitch";
+"stat_softball" = "Juegos jugados,Victorias,Derrotas,Empate,Home Run,Hits,Carreras,Base por bolas,Al bate,Asistencias,Elevado sacrificio,Strikeouts,Hit by Pitch";
+"stat_softball_s" = "J.J,V,D,E,H.R,H,C,B.B,AB,Ast,E.S,SO,HBP";
+
+"stat_floorball_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_floorball" = "Juegos jugados,Victorias,Derrotas,Empate,Goles,Asistencias,Intercepciones,Paradas exitosas,Sanciones";
+"stat_floorball_s" = "J.J,V,D,E,G,Ast,Int,P.E,S";
+
+"stat_sepak_takraw_key" = "Games_played,Victories,Defeats,Draws,Points,Assists,Successful_services,Successful_Receptions,Successful_passes,Bloc";
+"stat_sepak_takraw" = "Juegos jugados,Victorias,Derrotas,Empate,Puntos,Asistencias,Servicios exitosos,Recepciones exitosas,Pases exitosos,Tapón";
+"stat_sepak_takraw_s" = "J.J,V,D,E,Pts,Ast,S.E,R.E,P.E,Tpn";
+
+"stat_water_polo_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_water_polo" = "Juegos jugados,Victorias,Derrotas,Empate,Goles,Asistencias,Intercepciones,Paradas exitosas,Sanciones";
+"stat_water_polo_s" = "J.J,V,D,E,G,Ast,Int,P.E,S";
+
+"stat_coach_key" = "Games_played,Victories,Defeats,Draws,Ranking,Points_Ranking";
+"stat_coach" = "Juegos jugados,Victorias,Derrotas,Empate,Clasificación,Puntos clasificación";
+"stat_coach_s" = "J.J,V,D,E,C,P.C";
+
+"strength_football" = "Regate,Protección de bala,Velocidad,Duelos aéreos,Resistencia,Creación de oportunidades,Juego de construcción,Penetración,Recuperación,Conservación de la pelota,Intervalos de juego,Calificación,Intercepciones,Tacleadas,Juego de cabeza,Disparar,Controlar,Centrar,Acabado,Pases profundos,Pase corto,Pase largo,Juego largo,Juego corto,Combatividad,Concentración,Uno contra uno,Pase el juego,Detener,Salida del objetivo,Renacimiento,Tiros libres,centros,Calificación,Agresividad,Anticipación,Agilidad";
+"strength_basketball" = "Corriendo,Paso,Disparo,Bloquear,Rebote,Ofensa,Defensa,Movimientos,Violaciones,Asistencia,Falta";
+"strength_american_football" = "Corriendo,Paso,Bloqueo ,Atrapando,Prisa,Guardia,Triple amenaza,Fullback,H-back,Slotback,End Cornerback,La seguridad,Halfback,Nickelback,Dimeback ,Field goal,Punts and Kicks,Long snapper,Punt returner,Kick returner,Jammer,Upman Gunner,Upback,Utility";
+"strength_cricket" = "Fielding,Corriendo,Postura,Guata,Contraluz,Adelante y atrás,Salir,Tiro defensivo,Conducir,película,Cortar,Unidad cuadrada,Tire y enganche,Sudar tinta,Barrido,Corte superior,Interruptor de golpe,Cuchara / rampa,Tiro de helicóptero,Bolos rápidos,Spin Bowling,Entregas rápidas de bombín,Spin bowler entregas";
+"strength_tennis" = "Explosividad,Equilibrado,Coordinación mano-ojo,Juicio de pelota,Motivación,Concentración,Golpe derecho,Retrasar,Un servicio,Juego de pies,Anticipación,Volea";
+"strength_rugby" = "Corriendo,Paso,Atrapando,Abordar,Pateando,Habilidades Posicionales,Las normas,Trabajo en equipo,Ruck / Mauls,Disfrute,Recoger la pelota,Manejar la pelota,Recibe un pase,Mover con la pelota,Moverse sin balón,Entrada,patear la pelota,Evadir tacleadas,Perseverancia,Trabajar en un equipo,Valor,Calma,Visión,Resistencia";
+"strength_golf" = "Apretón,Postura,Columpio,Estrategias";
+"strength_baseball" = "Golpear,Volar,Calificación,Fielding,Lanzamiento,Atrapando,Coordinación mano-ojo,Bases funcionando, Los lanzadores cubren primero, Sacrificar las cavidades., Aprieta los golpes,Resumen todas las bases,Pega y corre,Bunt y corre,Doble vuelo,Relé,mantener corredores básicos,Los pickoffs";
+"strength_ice_hockey" = "Puck Handling,Paso,Disparo,Regate,Control de disco,Manejo de palo,Agilidad,Equilibrar,Control de borde,Patinaje hacia adelante,Patinaje hacia atrás,Torneado,Crossovers,Transición,Pies rápidos,Portero";
+"strength_field_hockey" = "Puck Handling,Paso,Disparo,Regate,Control de disco,Manejo de palo,Agilidad,Equilibrar,Control de borde,Marcha adelante,Marcha atrás,Torneado,Crossovers,Transición,Pies rápidos,Portero";
+"strength_volley" = "Servicio,Paso,Ajuste,Golpear,Excavación,Bloqueo";
+"strength_handball" = "golpear,Regate,Protección de bala,Velocidad,Duelos aéreos,Resistencia,Creación de oportunidades,Juego de construcción,Penetración,Recuperación,Conservación de la pelota,Jugar en intervalos,Limpieza en seco,Calificación,Intercepciones,Disparar,Controlar,Centrar,Terminar,Pases profundos,Pase corto,Pase largo,Juego largo,Juego corto,Patadas detenidas,Liderazgo,Plagio,Comunicación,Combatividad,Concentración,Uno contra uno,Detener,Salida del objetivo,Renacimiento";
+"strength_badminton" = "Apretón,Gotas,Lobs,Se jacta,Unidades,Mecánica de swing,Movimientos de corte,Controlar,Moviendo a tu oponente,Derechazo,Revés,Gastos generales,Arbitraje,Reglas y marcado,Sirve,Disparos,Aplastar";
+"strength_squash" = "Apretón,Gotas,Lobs,Se jacta,Unidades,Mecánica de swing,Movimientos de corte,Controlar,Moviendo a tu oponente,Derechazo,Revés,Gastos generales,Arbitraje,Reglas y marcado, Sirve";
+"strength_table_tennis" = "Derechazo,Servicio rápido,Empuje de derecha,empuje de revés,Golpe de derecha.,Golpe de revés.,Bucle de revés,Ataque de derecha,Servicio de derecha,Servicio de revés";
+"strength_boxing" = "Pinchazo,Cruzar,Gancho,Uppercut,Postura de boxeo,Juego de pies de boxeo,Puñetazo,Movimiento de la cabeza";
+"strength_martial_art" = "Atención,Disciplina,Memorización,Esfuerzo,Metas,juego de piernas,El respeto.,Confianza,La iniciativa,El esquiva,El ataque,El desfile,El disparo,El jet";
+"strength_mma" = "lucha,Gaidojutsu,Muay thai,Jabs,Uppercuts,La expansión y la reyerta,Lucha de clinch,Tierra y libra,Lucha de sumisión,derribos,Derribos,Envíos";
+"strength_kick_boxing" = "Distanciamiento,Defensa,Parar,Bloquear,Esquivar,Regreso,Rolling the Punch,Esquivar,Finta,Sincronización,Movimiento de la cabeza,Teep,Fuerte guardia,Golpes,pateando,Rodilla,Golpes de codo,Barriendo, Capital,El contraataque";
+"strength_wrestling" = "Los ataques,Arroja,Movimientos de transición,Postura, Movimiento,Cambio de nivel,Penetración,Levantamiento,Paso atrás,Arco trasero";
+"strength_gymnastic" = "Habilidades Acro,Adelante Roll,Rollo hacia atrás,Vueltas,Saltos,Saltos,Redondear,Resorte de mano";
+"strength_athletics" = "Reacciones,Coordinación,Equilibrar,Flexibilidad,Aguante,Poder,Fuerza,Velocidad";
+"strength_fencing" = "Ataque combinado,Estocada,Finta,Parar,Estocada,Contraataque,Juego de piernas,Rueda táctica,Golpe derecho,despeje,Cortado,Acciones defensivas,Jubilación";
+"strength_judo" = "Ataque,Defender,Agarrar oponente,Controlar oponente,Usar desequilibrio,soltar,Traer a tierra,inmovilizar,Desactivar la inmovilización,Patada de estilo libre";
+"strength_swimming" = "La braza,La mariposa,El rastreo,Rastreo de espalda,Confort de agua,Control de la respiración,Flotante,Pateando,Golpes,Técnica de respiración,Rotación del cuerpo,Técnica de extracción,Tasa de accidente cerebrovascular,longitudes de carrera,Patada de estilo libre";
+"strength_water_sports" = "Técnica de respiración,Rotación del cuerpo,Fuerte,Núcleo estirado,Entrada de la mano,Técnica de captura,Técnica de extracción,Tasa de accidente cerebrovascular,Longitudes de trazo";
+"strength_water_polo" = "Resistencia,Trabajo en equipo,Lanzamiento,Atrapando,Paso,Juego de cabeza,Disparar,Controlar,Acabado central,Pases profundos,Pase corto,Pase largo,Juego largo,Juego corto";
+"strength_autoracing" = "Concentración,Velocidad,Anticipación,Calma,Reflejo,Reactivo,Resistente,reglas de seguridad,Trabajo en equipo,Dirección de dominio,Giro,Frenado,Ver";
+"strength_motoracing" = "Concentración,Velocidad,Anticipación,Calma,Reflejo,Reactivo,Resistente,reglas de seguridad,Trabajo en equipo,Dirección de dominio,Giro,Frenado,Ver";
+"strength_cycling" = "Concentración,Velocidad,Anticipación,Calma,Reflejo,Reactivo,Resistente,reglas de seguridad,Trabajo en equipo,Dirección de dominio,Giro,Frenado,Ver,equilibrar,Cambiando,Pedaleo,Descendente";
+"strength_equestrian" = "Entrenamiento de caballos,Conducción de resistencia,Eventing,Reining,concurso hípico,Vinculación ent,Abovedado,Las carreras de caballos,Conducción,Rodeo";
+"strength_polo" = " Bola de dominio,Mazo de dominio,Entrenamiento de caballos,Conducción de resistencia,Eventing,Reining,concurso hípico,Vinculación ent,Abovedado,Las carreras de caballos,Conducción,Rodeo,Doble robo";
+"strength_dance" = "Movimientos,Paso,Espacio corporal,Hora,Energía,Relaciones de pareja,Compromiso emocional";
+"strength_softball" = "Baserunning,Etiquetado de corredores,Cabeceo,Lanzamiento,Golpear,Corredizo,Fielding moscas,Fielding Field Balls,Verderón,Atrapar la pelota,Juego de piernas,Baserunning,Robar defensa,Verderón,Defensa del golpe,Doble jugada,El corte";
+"strength_sepak_takraw" = "Patada interior,Patada al aire libre,Golpe de rodilla,encabezamiento,Servicio,Spike Sunback,Punto de balanceo";
+"strength_korfball" = "Equilibrar,Dirección del cuerpo,Movimiento de tiempo,Movimiento,Manejo de pelota,Bola hueca,lanzar pelota,Disparo,Moviente,Corriendo,Korfball mono";
+"strength_floorball" = "Técnica individual, Paso,Recepción,Disparo,Regate,Tácticas individuales, Roles de juego,Moviente";
+"strength_climbing" = "Ejercicios de juego de pies,Posición del cuerpo,Enlosado, Rápido, Soltando,Usando volúmenes,Slopers, Sentarse comienza, Lectura de ruta";
+
+"strength_mountaineering" = "Reacción,Coordinación,Equilibrado,Flexibilidad,Resistencia,Potencia,Fuerza,Velocidad,Seguridad";
+"strength_canyoning" = "Requiere fuerza,Fuerza de la mente,Atención,Evitar la complacencia,Cuerpo de fuerza,Equilibrar,Variedad de formas.";
+"strength_trail" = "Resistencia,Ritmo,Sprint,Recuperación,Reacciones,Coordinación,Equilibrar,Flexibilidad,Aguante,Poder,Fuerza,Velocidad,Ritmo";
+"strength_triathlon" = "Comenzando,Parada, Arrinconar,Manejo,Tráfico,Cambiando,Cadencia,Alpinismo,Descendente,Grupo de equitación";
+"strength_archery" = "Atención,Concentración,Músculo de la paciencia,Coordinación,Equilibrar,Estabilidad. ...,Habilidades de distancia,Objetivo,Ver,Vista de tiro";
+"strength_snowboarding" = "Balance de proa / popa. ...,independencia del cuerpo,Rango de movimiento,Escogiendo turnos,Mantenerse estable,Plantando tus polos.,Bordes de maestría,Tackle Deep,Polvo fresco";
+"strength_skiing" = "Balance de proa / popa. ...,independencia del cuerpo,Rango de movimiento,Escogiendo turnos,Mantenerse estable,Plantando tus polos.,Bordes de maestría,Tackle Deep,Polvo fresco,Tallado";
+"strength_ice_skating" = "Sentarse en el hielo,Pararse hielo,Deslizamiento hacia adelante,Dip,Swizzles hacia adelante,Meneo hacia atrás,quitanieves,Adelante,Retrocediendo,Acariciando hacia atrás,giro de un pie,Paradas en T";
+"strength_bowls" = "Punto,Disparar,Lanzamiento,Precisión,Juegos de trayectoria,De pie o en cuclillas,Corredizo,La media camada,El alcance,Disparar,La balsa,Hierro";
+"strength_skateborard" = "Kickflip,Trucos,180 °,360 °,Deslizamiento,No cumple,Sin espinas,Gran giro,Bigflip,Hombre de las cavernas P,Soporte de mano,Ollie,Agarra";
+"strength_crossfit_fitness" = "Poder,Velocidad,Agilidad,Coordinación mano-ojo-pie,Equilibrado,Tiempo de reacción,Forma cardiovascular,Composición corporal,Saltar,pivotante,Movilidad,Fuerza";
+"strength_weightlifting" = "Poder,Velocidad,Agilidad,Coordinación mano-ojo-pie,Equilibrado,Tiempo de reacción,Forma cardiovascular,Composición corporal,Saltar,pivotante,Movilidad,Fuerza";
+"strength_surf" = "Tallado,Guarnición,barra oblicua,Reducción de Roundhouse,Fuera del labio,Escalada de espuma,Flotador,Tobogán De Cola,Noseriding,Variaciones,Cambiar postura,360,Kickflip,Tubo de paseo,Aérea / Aérea,Alley-oop,Rodeo flip,Kerrupt Flip,Flip Flynnstone,Rollo de sushi";
+"strength_sailing" = "Dirigiendo las velas.,Llegar al plomo (fuera de borda),Levanta tus pesadas velas de aire,palo de bigote,Ajuste de la vela,Equilibrio del barco,Bandazo,Recorte delantero,Recorte en popa,Posición,Tachuelas";
+"strength_canoeing" = "Apretón,Buena postura,Control de la cuchilla,Sincronización,Equilibrar,Ritmo,Eficiencia, Aplicación de energía,Remeros, Habilidades de remo.,golpe hacia adelante,Dibujar trazo,Cross Draw Stroke,Stern Pry Stroke,Carrera J";
+"strength_rowing" = "Apretón,Buena postura,Control de la cuchilla,Sincronización,Equilibrar,Ritmo,Eficiencia, Aplicación de energía,Remeros, Habilidades de remo.,Golpe Orward,Dibujar trazo,Cross Draw Stroke,Stern Pry Stroke,Carrera J";
+"strength_winter_sport" = "Reacción,Coordinación,Equilibrado,Flexibilidad,Resistencia,Potencia,Fuerza,Velocidad,Saltar";
+"strength_air_sport" = "Reacción,Coordinación,Equilibrado,Flexibilidad,Resistencia,Potencia,Fuerza,Velocidad,Saltar";
+
+"terms_and_conditions" = "<h2 style=\"text-align: center;\">Welcome&nbsp;&nbsp;&nbsp;!</h2><p>&nbsp;</p><p>We are delighted that you have decided to use&nbsp;Aggone&nbsp;.&nbsp;We have drafted these terms of service so that you have full knowledge of the rules governing the relationship between us and us (and anyone interacting with&nbsp;Aggone&nbsp;).&nbsp;These conditions are indeed a binding contract between you and&nbsp;Aggone&nbsp;.&nbsp;We invite you to read them carefully.&nbsp;The use of our Services implies your acceptance of these conditions.&nbsp;Of course, if you do not accept them, you can not use the Services.&nbsp;Our mission is to connect all stakeholders in the sporting universe around the world to improve their&nbsp;productivity&nbsp;s&nbsp;s&nbsp;s&nbsp;and facilitate their&nbsp;success&nbsp;s.&nbsp;Our services are designed with the objective of promoting opportunities for our members to exchange ideas, to learn and to find sports opportunities to work and make decisions in the context&nbsp;of a serene relationship&nbsp;network&nbsp;of confidence.</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>1. Introduction</strong></p><p><strong>1.2 Members and Visitors</strong></p><p>When you register on&nbsp;Aggone&nbsp;you become a Member.&nbsp;If you chose not to sign up for our Services, you can access certain features as a visitor.&nbsp;Users of our Registered Services are \"Members\" and non-registered users are \"Visitors\".&nbsp;This Agreement applies to both.</p><p>&nbsp;</p><p><strong>1.3 Modification</strong></p><p>We may change this Agreement, our Privacy Policy and our Cookie Policy from time to time.&nbsp;If we make any material changes to it, we will notify you via our Services, or by other means, to give you the opportunity to review the changes before they take effect.&nbsp;If you object to any of the changes, you can&nbsp;&nbsp;&nbsp;close your account&nbsp;by mail address to our services under proof of identity&nbsp;.&nbsp;If you continue to use our Services after posting or sending notice of any changes we have made to these terms, you agree to the updated terms.</p><p>&nbsp;<strong>&nbsp;</strong></p><p><strong>&nbsp;</strong></p><p><strong>2</strong>&nbsp;<strong>.</strong>&nbsp;<strong>Obligations</strong></p><p><strong>2.1</strong>&nbsp;<strong>Right to Services</strong>&nbsp;<strong>and Registration</strong></p><p>In order to use the Services, you agree to the following conditions&nbsp;&nbsp;&nbsp;:</p><p>&nbsp;</p><ol><li>You will not provide false personal information about&nbsp;Aggone&nbsp;and will not create an account for another person without their permission.</li><li>You will only create one personal account.</li><li>If we delete your account, you will not create&nbsp;others without our permission&nbsp;.</li><li>You will not use&nbsp;Aggone&nbsp;if you are under 13 years old.However, in the event that the law requires that you are older than indicated for&nbsp;Aggonne&nbsp;to legally provide you services without parental consent (including the use of your personal data) the minimum age would then be the one stipulated in the law .</li><li>Members who were under this minimum age when they started using the Services under previous Terms of Use may continue to use the Services because they have the new Minimum Age since or will have it soon.</li><li>You will not use&nbsp;Aggone&nbsp;if you have been convicted of sexual violence or murder or anything that is related to terrorism.</li><li>You will not share your password and will not allow anyone to access your account or do anything that could compromise the security of your account.</li><li>Comply with the law and the&nbsp;rulesdescribed&nbsp;in the to-do list and not to do</li></ol><p><strong>2.2</strong>&nbsp;<strong>Security</strong>&nbsp;<strong>and regulation</strong>&nbsp;<br /> <br /> We do our utmost to make&nbsp;Aggone&nbsp;a safe service, but can not guarantee absolute safety.&nbsp;To ensure safety on&nbsp;Aggone&nbsp;, we need your help, which includes the following commitments from you:</p><ol><li>You will not post unauthorized commercial communications (such as unwanted messages) onAggone&nbsp;.</li><li>You will not obtain information about Internet users or the content they post, and will not accessAggone&nbsp;using automated methods (such as robots, spiders, etc.) without our prior permission.</li><li>You will not perform illegal multi-level marketing, such as pyramid schemes, onAggone&nbsp;.</li><li>You will not download any viruses or other malicious code.</li><li>You will not ask for login information and will not access an account owned by someone else.</li><li>You will not intimidate or harass others.</li><li>You will not post any content that incites hatred or violence, is pornographic, or contains nudity or gratuitous violence.</li><li>You will not develop or operate any third-party applications that contain alcoholic beverages, adult dating sites, or other adult products and services (including advertisements) without access restrictions. at the age.</li><li>You will not useAggone&nbsp;for any illegal, malicious or discriminatory purpose.</li><li>You will not act in a manner that could disable, overburden, or otherwise interfere with the proper operation or appearance ofAggone&nbsp;(such as an attack resulting in a denial of service or interference with the display of Pages or other features&nbsp;Aggone&nbsp;)&nbsp;.</li><li>Youwill not allow and will not&nbsp;encourage&nbsp;violations of this Declaration or our regulations.</li></ol><p><strong>2.3</strong>&nbsp;<strong>Notifications and messages from the Services</strong></p><p>You agree that we communicate with you via our websites, our applications and the contact information you have provided to us.&nbsp;If the contact information you have provided is out of date, important notifications may not be sent to you.&nbsp;You agree that we will notify you&nbsp;by the following means:&nbsp;a notification&nbsp;in the Service or&nbsp;a message sent to the contact information you have provided to us (for example, e-mail address, mobile number, physical address).&nbsp;You agree to keep your contact information up to date.</p><p><strong>2.4</strong>&nbsp;<strong>Sharing</strong></p><p>When you share information, this information can be viewed,&nbsp;shared&nbsp;and used by others.&nbsp;Our Services allow you to send messages and share information in multiple ways including through your profiles, slide sets, links to newspaper articles, ads,&nbsp;InMails&nbsp;and blogs.&nbsp;The information and content you share or post may be viewed by other Members or Visitors.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>3. Rights and restrictions</strong></p><p><strong>3.1</strong>&nbsp;<strong>Content</strong></p><p>You own all content, feedback and any personal data you provide to us but you also grant us a non-exclusive license to use them.&nbsp;You agree to only provide us with information&nbsp;and content that you&nbsp;have the&nbsp;right to share and to have a real profile&nbsp;.&nbsp;As part of the relationship between you and&nbsp;Aggone&nbsp;, you remain the owner of the content and information you submit or send to the Services, and you only grant&nbsp;Aggone&nbsp;the following non-exclusive license&nbsp;&nbsp;&nbsp;: a worldwide, assignable and sublicensable right to use, copy, modify, distribute, publish and process the information and content you provide through ourServices, without further consent&nbsp;.&nbsp;These rights are restricted as follows&nbsp;&nbsp;&nbsp;:</p><ol><li>You may terminate this license for specific content by deleting this content from the Services, or generally by closing your account, (a)unless, as part of the Services, you have shared this content with others who copied it, shared it again, or stored, and (b)&nbsp;&nbsp;&nbsp;subject to a reasonable time required to remove it from backup and other systems.</li><li>We will not include your content in advertisements for third party products and services without your specific consent (including the&nbsp;Sponsored&nbsp;Content).However, we have the right to place ads near your data and content without us being required to pay you or third parties financial compensation.&nbsp;Likewise, as stated in the&nbsp;Privacy&nbsp;Policy&nbsp;, your&nbsp;&nbsp;&nbsp;<em>social actions</em>&nbsp;&nbsp;&nbsp;on the&nbsp;Sponsored&nbsp;&nbsp;&nbsp;Content and the Company pages may be visible.</li><li>We will seek your consent if we wish to give third parties the right to publish your messages out of service.However, other Members and / or Visitors may access and share your content and data in accordance with your preferences.</li><li>Although we may change your content or layout (for example by translating it, changing its size, layout, or file type, deleting metadata), we will not change the meaning of your expression.</li><li>Since your content and data belong to you and we have only non-exclusive rights, you may choose to make them available to others&nbsp;.</li></ol><p>You agree that we may access, store and use the information you have provided in accordance with the terms of the Privacy Policy and your preferences (including settings).</p><p>By submitting suggestions or feedback on the Services to&nbsp;Aggone&nbsp;, you agree that we may use and share (without necessarily doing so) this feedback for any purpose and without providing you with financial compensation.</p><p>You agree to only provide content and data that does not violate any law or violates any person's rights (or any intellectual property rights).&nbsp;Likewise, you guarantee the veracity of the information in your profile.&nbsp;Under the law of some countries,&nbsp;Aggone&nbsp;may be required to remove content and information.</p><p>&nbsp;</p><p><strong>3.2 Availability of Services</strong></p><p><strong><strong>1&nbsp;- Services offered</strong></strong></p><ol><li>the application allows the user to publishinformation about their activity in the sportand to share and modify it.&nbsp;The purpose of the application and to allow the&nbsp;user&nbsp;to put forward their competence in their activity in the sport in&nbsp;written&nbsp;or video form.</li><li>You acknowledge and agree that you are solely responsible for your own Content and theconsequences of its dissemination.&nbsp;Aggone&nbsp;does not endorse any Content, or opinion, recommendation or opinion expressed in it, and&nbsp;Aggone&nbsp;expressly disclaims any&nbsp;and&nbsp;all liability for such Content.</li></ol><p>&nbsp;</p><ol start=\"3\"><li>You agree that your conduct onAggone(and all of your Content) respects the&nbsp;Aggone&nbsp;Community&nbsp;Rules&nbsp;, You also acknowledge that by simply using the Service, you may be exposed to Inaccurate, shocking, indecent or otherwise negative content.&nbsp;Aggone&nbsp;in no way be held responsible for the distribution of this type of Content.</li></ol><p>We may modify, suspend or terminate all Services, or change their prize potentially at our discretion.&nbsp;To the extent permitted by law, these changes will take effect as soon as you have been notified.You can change or suspend any Service.&nbsp;We do not guarantee that we will store or continue to display the information and content you have posted.</p><p>Aggone&nbsp;is not a Storage Service.&nbsp;You agree that no obligation to store, maintain or provide you with a copy of the information or content that you or others have provided to us is our responsibility, except to the extent required by applicable law and as described in our Privacy Policy.</p><p>&nbsp;</p><p><strong><strong><strong><strong>2. Registration data and use</strong></strong></strong></strong></p><p>When you register for the&nbsp;Aggone&nbsp;service&nbsp;, we may collect the information we request from you, such as your username, password, e-mail address, date of birth, gender, postal code and country .&nbsp;&nbsp;&nbsp;If you connect to the Service using your&nbsp;Facebook&nbsp;credentials&nbsp;, you authorize us to collect your authentication information, such as your user name, encrypted access information, and other information that may be available to you. Be available on or through your&nbsp;Facebook&nbsp;account&nbsp;, including your name, profile picture, country, hometown, e-mail address, date of birth, gender, friends names, and profile and network images.&nbsp;&nbsp;&nbsp;We may store this information so that it may be used for the purposes explained in the \"How We Use the Information We Collect\" section and may verify your credentials with&nbsp;Facebook&nbsp;.</p><p>Your information also includes the information you choose to share on&nbsp;Aggone&nbsp;, such as a wall message or comment.&nbsp;&nbsp;&nbsp;We may also collect information that you voluntarily add to your profile;&nbsp;&nbsp;&nbsp;As you are the size, the weight, the primary foot of the shirt number, the privileged position or your seasonal statistics for you to create your personal football identity.</p><p>We may use the information we collect, including your personal information, to: provide, personalize and improve your experience with our Service, ensure the technical operation of the service, develop new features and analyze your use of the service, including your interaction with the service Applications and services made available, linked to or offered to the service;&nbsp;&nbsp;&nbsp;Communicate with you for service-related reasons, including emails or promotional messages;&nbsp;&nbsp;&nbsp;Enable and promote the service, including the&nbsp;features and content of services made available through the service, such as sharing, user interactions, notifications and suggestions, and integrations with third-party services.</p><p><strong>3.3 Other sites, content and applications.</strong></p><p>Your use of the content and third-party information published on our Services is at your own risk.&nbsp;Aggones&nbsp;allows to put links via other website and application to share content on&nbsp;Aggones&nbsp;.&nbsp;We are not responsible for the activities of these&nbsp;third parties. The&nbsp;decision to access third-party applications or sites connected to our Services and to use them is your sole responsibility.&nbsp;If you authorize an application or third-party site to authenticate or connect to you through your&nbsp;Aggone&nbsp;account&nbsp;, that site or application may access your information and that of your contacts on&nbsp;Aggone&nbsp;.&nbsp;Because third-party apps and sites have their own Terms of Service and Privacy Policy, you may be required to give them permission to use your information in a way that is different from ours.&nbsp;Except in limited cases where the applicable law requires it,&nbsp;Aggone&nbsp;is not responsible for these other sites and applications.&nbsp;You use them at your own risk.</p><p><strong>3.4 Restrictions</strong></p><p>We have the right to restrict the way you connect and interact with our Services.&nbsp;Aggone&nbsp;reserves the right to limit your use of the Services, including the number of your relationships and your ability to contact other members.&nbsp;Aggone&nbsp;reserves the right to restrict, suspend or&nbsp;terminate&nbsp;your account if&nbsp;Aggone&nbsp;believes that you may be violating this Agreement or the law or that your use of the Services is unreasonable (for example, if you do not comply with Article Do's and Don'ts).</p><p><strong>3.5 Intellectual property rights</strong></p><p>We inform you of our rights in intellectual property.</p><p>Aggone&nbsp;reserves all of its intellectual property rights related to the Services.&nbsp;Use of the Services does not grant you ownership of our Services or the content or information available through our Services.The brands and logos used in connection with the Services may belong to third parties.&nbsp;Aggone&nbsp;, the logos bearing the \"in\" mark and other marks, service marks, illustrations and&nbsp;Aggone&nbsp;logos&nbsp;used in our Services are trademarks or registered trademarks of&nbsp;Aggone&nbsp;.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><strong><strong><strong><strong>4. Exemption and limitation of liability</strong></strong></strong></strong></p><p>We try to provide a fault free environment and on, we provide&nbsp;Aggone&nbsp;\"as is\" without express or implied warranties.&nbsp;We do not guarantee that we are always on, secure or error-free or that&nbsp;Aggone&nbsp;always operates without interruption, delay or imperfections.&nbsp;Aggone&nbsp;assumes no liability for actions contained third party information or data.&nbsp;You release&nbsp;Aggone&nbsp;and all members of the company that makes it from any liability for any claim or damage known or unknown emanating from any complaints you have against or relating to such third parties.&nbsp;By using&nbsp;or accessing&nbsp;Aggone&nbsp;, you are giving&nbsp;Aggonepermission&nbsp;to&nbsp;collect&nbsp;the shared content and information&nbsp;.&nbsp;this statement&nbsp;may be updated from time to time&nbsp;as we wish&nbsp;.</p><p><strong>&nbsp;</strong></p><p><strong>Contact Us</strong></p><p>&nbsp;Aggone invites you to share your comments, questions, doubts or suggestions. Please send them to us in email Aggone13013@gmail.com</p><p>&nbsp;</p>";

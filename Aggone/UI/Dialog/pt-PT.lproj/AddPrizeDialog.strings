@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Add More Prizes"; ObjectID = "5ib-n6-h3V"; */
+"5ib-n6-h3V.text" = "Add More Prizes";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "OcB-Kj-cYp"; */
+"OcB-Kj-cYp.text" = "Club";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "PfS-eQ-TpJ"; */
+"PfS-eQ-TpJ.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "QJx-op-rPj"; */
+"QJx-op-rPj.text" = "Year";
+
+/* Class = "UILabel"; text = "Select Icon"; ObjectID = "Vdi-Oe-od2"; */
+"Vdi-Oe-od2.text" = "Select Icon";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rD1-77-8T8"; */
+"rD1-77-8T8.text" = "Title";

@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Are you sure you want to delete this?"; ObjectID = "Ew3-E4-F30"; */
+"Ew3-E4-F30.text" = "Êtes-vous sûr de vouloir supprimer ceci";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "FJ9-R1-lI1"; */
+"FJ9-R1-lI1.text" = "Annuler";
+
+/* Class = "UILabel"; text = "Delete"; ObjectID = "Wwt-iB-EaM"; */
+"Wwt-iB-EaM.text" = "Effacer";

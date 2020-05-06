@@ -1,0 +1,412 @@
+/* 
+  Localizable.strings
+  Aggone
+
+  Created by tiexiong on 5/15/18.
+  Copyright © 2018 tiexiong. All rights reserved.
+*/
+
+"player" = "播放器";
+"coach" = "教练";
+"team_club" = "团队/俱乐部";
+"agent" = "代理商";
+"staff" = "员工";
+"company" = "公司";
+"company_desc" = "品牌/赞助商/梅迪亚...";
+"select" = "选择";
+"txt_select" = "选择";
+"txt_selected" = "选定";
+"txt_tagged_users" = "标记用户";
+
+"reset" = "重启";
+"apply" = "应用";
+"txt_sport" = "运动";
+"txt_city" = "市";
+"txt_country" = "国家";
+"txt_gender" = "性别";
+"txt_people" = "人";
+"txt_video" = "影片";
+"txt_news" = "新闻";
+"txt_recommendations" = "要求";
+"txt_specialty" = "专业";
+"txt_available" = "适用于俱乐部";
+
+"pf_videos" = "影片";
+"pf_prizes" = "奖品";
+"pf_career" = "卡雷尔";
+"pf_description" = "描述";
+"pf_news" = "新闻";
+"pf_trophies" = "奖杯";
+"pf_team" = "团队";
+"pf_history" = "历史";
+"pf_details" = "细节";
+"pf_email" = "电子邮件";
+"pf_phone" = "电话";
+"pf_website" = "网站";
+"pf_story" = "故事";
+"add_resume" = "添加简历";
+"stats_disable_noti" = "无法访问此页面";
+"stats_disable_desc" = "您的帐户类型无法访问此页面。 可以从设置中更改帐户类型。";
+
+"profile_audience" = "听众";
+"audience_story_views" = "故事观看";
+"audience_today" = "今天";
+"audience_week" = "周";
+"audience_month" = "月";
+"audience_visitors" = "参观者";
+"audience_total_profile" = "总资料";
+"audience_visits" = "访问";
+"audience_total_views" = "总浏览";
+"audience_view_video" = "观看视频";
+"audience_star_video" = "视频明星";
+"audience_views_suffix" = "观看";
+
+"gender_man" = "男子";
+"gender_woman" = "女人";
+"gender_other" = "其他";
+
+"menu_modify_profile" = "修改个人资料";
+"menu_change_password" = "更改密码";
+"menu_my_subscription" = "我的订阅";
+"menu_my_subscribers" = "我的订阅者";
+"menu_recorded" = "记录下来";
+"menu_blocked_users" = "阻止用户";
+"menu_terms_conditions" = "使用条件";
+"menu_contact_us" = "联系我们";
+"menu_sign_out" = "登出";
+"menu_view" = "意见";
+"menu_ad" = "广告";
+
+"menu_block" = "阻止";
+"menu_unblock" = "解除阻止";
+"menu_report" = "报告";
+
+"current_password" = "当前密码";
+"new_password" = "新密码";
+"retype_password" = "重新键入密码";
+"btn_confirm" = "确认";
+
+"add_more_news" = "添加更多新闻";
+"add_more_news_description" = "您可以添加有关俱乐部的所有新趋势新闻";
+"add_history" = "添加/编辑历史";
+"add_history_description" = "写你的简历";
+"dialog_attachment" = "可用附件";
+
+"description_1" = "速度";
+"description_2" = "强度";
+"description_3" = "爆炸物";
+"description_4" = "加速";
+"description_5" = "耐力";
+"description_6" = "协调";
+
+"description_7" = "打击力量";
+"description_8" = "控制";
+"description_9" = "防守型";
+"description_10" = "进攻";
+"description_11" = "精确";
+"description_12" = "精加工";
+
+"description_13" = "动机";
+"description_14" = "浓度";
+"description_15" = "反射";
+"description_16" = "适应";
+"description_17" = "心理";
+"description_18" = "通讯";
+
+"description_19" = "游戏情报";
+"description_20" = "团队精神";
+"description_21" = "创造力";
+"description_22" = "游戏构造";
+"description_23" = "做决定";
+"description_24" = "执行";
+
+"cdescription_1" = "技术";
+"cdescription_2" = "战术性";
+"cdescription_3" = "生理";
+"cdescription_4" = "心理学";
+"cdescription_5" = "整理/游戏";
+"cdescription_6" = "游戏构造";
+
+"cdescription_7" = "训练运动员";
+"cdescription_8" = "教练员";
+"cdescription_9" = "评估运动员";
+"cdescription_10" = "确定进度";
+"cdescription_11" = "教育学";
+"cdescription_12" = "说明";
+
+"cdescription_13" = "管理优势";
+"cdescription_14" = "处理弱点";
+"cdescription_15" = "分析游戏";
+"cdescription_16" = "通讯";
+"cdescription_17" = "安全规则";
+"cdescription_18" = "行政管理";
+
+"cdescription_19" = "领导者";
+"cdescription_20" = "强度/特征";
+"cdescription_21" = "团队精神";
+"cdescription_22" = "有说服力的";
+"cdescription_23" = "动态";
+"cdescription_24" = "观察者";
+
+"category_1" = "物理";
+"category_2" = "技术";
+"category_3" = "心理";
+"category_4" = "战术的";
+
+"ccategory_1" = "知识";
+"ccategory_2" = "技术";
+"ccategory_3" = "管理技巧";
+"ccategory_4" = "特质";
+
+"name" = "名称";
+"category" = "类别";
+"club" = "俱乐部";
+"position" = "位置";
+"contract" = "合同";
+
+"american_football" = "美式足球";
+"athletics" = "田径运动";
+"badminton" = "羽毛球";
+"baseball" = "棒球棒";
+"basketball" = "篮球";
+"boxing" = "拳击";
+"climbing" = "攀岩";
+"cricket" = "板球";
+"cycling" = "单车";
+"dance" = "舞蹈";
+"equestrianism" = "马术";
+"fencing" = "击剑";
+"football" = "足球";
+"golf" = "高尔夫球";
+"gymnastic" = "体操";
+"handball" = "手球";
+"judo" = "柔道";
+"martial_art" = "武术";
+"rugby" = "英式橄榄球";
+"skiing" = "滑雪";
+"snowboarding" = "单板滑雪";
+"squash" = "壁球";
+"swimming" = "游泳";
+"table_tennis" = "乒乓球";
+"tennis" = "网球";
+"volleyball" = "排球";
+"water_sports" = "水上运动";
+"wrestling" = "摔角";
+"ice_hockey" = "冰上曲棍球";
+"field_hockey" = "曲棍球";
+"mma" = "混合武术";
+"kick_boxing" = "踢拳";
+"water_polo" = "水球";
+"auto_racing" = "赛车";
+"moto_racing" = "摩托赛车";
+"polo_sport" = "马球";
+"softball" = "垒球";
+"sepak_takraw" = "藤球";
+"korfball" = "科尔福球";
+"floorball" = "地板球";
+"mountaineering" = "登山";
+"canyoning" = "溪降";
+"trail" = "越野跑";
+"triathlon" = "铁人三项";
+"archery" = "射箭";
+"ice_skating" = "滑冰";
+"petanque" = "佩坦克";
+"skate_board" = "滑板";
+"weightlifting" = "举重";
+"crossfit_fitness" = "适合度";
+"surf" = "冲浪";
+"sailing" = "航海";
+"canoeing" = "独木舟";
+"rowing" = "划船";
+"air_sports" = "空中运动";
+"winter_sports" = "冬季运动";
+"bowling" = "打保龄球";
+
+"statistics" = "统计";
+"match_win_percent" = "匹配胜利％";
+"match" = "比赛";
+"ratio" = "比";
+
+"club_name" = "俱乐部名称";
+"total" = "总";
+"year_name" = "年";
+
+"performance" = "性能";
+
+"follow" = "订阅";
+"following" = "退订";
+
+"my" = "我的";
+"world" = "世界";
+
+"notification_follow" = "这个人跟着你";
+"notification_like" = "这个人喜欢您的影片";
+"notification_chat" = "此人向您发送了一条消息";
+
+"txt_victory" = "胜利";
+"txt_defeat" = "失败";
+"txt_draw" = "平局";
+
+"txt_jan" = "一月";
+"txt_feb" = "二月";
+"txt_mar" = "三月";
+"txt_apr" = "四月";
+"txt_may" = "可以";
+"txt_jun" = "六月";
+"txt_jul" = "七月";
+"txt_aug" = "八月";
+"txt_sep" = "九月";
+"txt_oct" = "十月";
+"txt_nov" = "十一月";
+"txt_dec" = "十二月";
+
+"months_array" = "一月,二月,三月,四月,可以,六月,七月,八月,九月,十月,十一月,十二月";
+
+"month_name_array" = "一月,二月,三月,四月,可以,六月,七月,八月,九月,十月,十一月,十二月";
+
+"week_day_array" = "星期日,星期一,星期二,星期三,星期四,星期五,星期六";
+
+"weeks_array" = "第一周,第二周,第三周,第四周";
+
+"stat_american_football_key" = "Games_played,Victories,Defeats,Draws,Points_scored,Touchdowns,Attempts,Yards,Assist,successful_races,Interceptions,Tackle,Completions,Sack,First_Down,Fumble,Reception,Blocked";
+"stat_american_football" = "玩过的游戏,胜利,失败 ,平局,得分,達陣,尝试次数,码,助攻   ,成功种族,拦截,抢断,完成,麻袋,未降,摸索,成功接待,受阻";
+"stat_american_football_s" = "玩过的游戏,胜利,失败 ,平局,得分,達陣,尝试次数,码,助攻,成功种族,拦截,抢断,完成,麻袋,未降,摸索,成功接待,受阻";
+
+"stat_basketball_key" = "Games_played,Victories,Defeats,Draws,Points,Rebounds,Assists,Blocks,Steals";
+"stat_basketball" = "玩过的游戏,胜利,失败 ,平局,点,篮板,助攻,阻攻,拦截";
+"stat_basketball_s" = "玩过的游戏,胜利,失败 ,平局,点,篮板,助攻,阻攻,拦截";
+
+"stat_football_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Successful_passes,Interceptions,Clean_sheet,Goalkeeper_stop,Sanctions";
+"stat_football" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,成功通过,拦截,无尘纸,守门员站,制裁";
+"stat_football_s" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,成功通过,拦截,无尘纸,守门员站,制裁";
+
+"stat_rugby_key" = "Games_played,Victories,Defeats,Draws,Points,Tries,Conversion,Tackle,Drops,Penalties";
+"stat_rugby" = "玩过的游戏,胜利,失败 ,平局,点,尝试,转换 ,抢断,掉落,罚则 ";
+"stat_rugby_s" = "玩过的游戏,胜利,失败 ,平局,点,尝试,转换 ,抢断,掉落,罚则 ";
+
+"stat_cricket_key" = "Games_played,Victories,Defeats,Draws,Runs_scored,Batting_average,100s_50s,Top_score,Balls_bowled,Wickets,Bowling_average,5_wickets_in_innings,10_wickets_in_match,Best_bowling,Catches,Stumpings";
+"stat_cricket" = "玩过的游戏,胜利,失败 ,平局,跑步得分 ,平均命中率 ,100秒/ 50秒,最高分 ,滚球 ,小门,保龄球平均,5局小门,比赛中有10个小门,最佳保龄球,接球,残端";
+"stat_cricket_s" = "玩过的游戏,胜利,失败 ,平局,跑步得分 ,平均命中率 ,100秒/ 50秒,最高分 ,滚球 ,小门,保龄球平均,5局小门,比赛中有10个小门,最佳保龄球,接球,残端";
+
+"stat_hockey_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_hockey" = "玩过的游戏,胜利,失败,平局,球门,助攻,拦截,成功停止,罚则";
+"stat_hockey_s" = "玩过的游戏,胜利,失败,平局,球门,助攻,拦截,成功停止,罚则";
+
+"stat_baseball_key" = "Games_played,Victories,Defeats,Draws,Home_Run,Hits,Runs,Bases_on_Balls,At_Bats,Assists,Sacrifice_Flies,Strikeouts,Hit_by_Pitch";
+"stat_baseball" = "玩过的游戏,胜利,失败 ,平局,本垒打,命中 ,运行,基于球,打數,助攻,牺牲苍蝇,三振出局,觸身球";
+"stat_baseball_s" = "玩过的游戏,胜利,失败 ,平局,本垒打,命中 ,运行,基于球,打數,助攻,牺牲苍蝇,三振出局,觸身球";
+
+"stat_handball_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Successful_passes,Interceptions,Clean_sheet,Goalkeeper_stop,Penalties";
+"stat_handball" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,成功通过,拦截,无尘纸,守门员站,制裁";
+"stat_handball_s" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,成功通过,拦截,无尘纸,守门员站,制裁";
+
+"stat_volleyball_key" = "Games_played,Victories,Defeats,Draws,Points,Assists,Successful_services,Successful_Receptions,Successful_passes,Bloc";
+"stat_volleyball" = "玩过的游戏,胜利,失败,平局,点,助攻,成功服务,成功接待,成功通过,阻攻";
+"stat_volleyball_s" = "玩过的游戏,胜利,失败,平局,点,助攻,成功服务,成功接待,成功通过,阻攻";
+
+"stat_tennis_key" = "Games_played,Victories,Defeats,Draws,Points_earned_in_the_service,Point_earned_in_Return_of_service,Ranking,PointsRanking";
+"stat_tennis" = "玩过的游戏,胜利,失败 ,平局,积分服务,积分返还服务,排名,排名积分";
+"stat_tennis_s" = "玩过的游戏,胜利,失败 ,平局,积分服务,积分返还服务,排名,排名积分";
+
+"stat_badminton_key" = "Games_played,Victories,Defeats,Draws,Points_earned_in_the_service,Point_earned_in_Return_of_service,Ranking,pointsRanking";
+"stat_badminton" = "玩过的游戏,胜利,失败 ,平局,积分服务,积分返还服务,排名,排名积分";
+"stat_badminton_s" = "玩过的游戏,胜利,失败 ,平局,积分服务,积分返还服务,排名,排名积分";
+
+"stat_golf_key" = "Games_played,Victories,Defeats,Draws,Fairway_InRegulation,Green_InRegulation,Number_of_putts,Ranking,PointsRanking";
+"stat_golf" = "玩过的游戏,胜利,失败 ,平局,球道重组,绿色调节,推杆数,排名,排名积分";
+"stat_golf_s" = "玩过的游戏,胜利,失败 ,平局,球道重组,绿色调节,推杆数,排名,排名积分";
+
+"stat_athletics_key" = "Games_played,Victories,Defeats,Draws,Performance,Ranking,Points_Ranking";
+"stat_athletics" = "玩过的游戏,胜利,失败 ,平局,性能,排名,排名积分";
+"stat_athletics_s" = "玩过的游戏,胜利,失败 ,平局,性能/时间,排名,排名积分";
+
+"stat_racing_key" = "Races,Victories,Defeats,Draws,Performance,Ranking,PointsRanking";
+"stat_racing" = "种族,胜利,失败 ,平局,性能,排名,排名积分";
+"stat_racing_s" = "种族,胜利,失败 ,平局,性能/时间,排名,排名积分";
+
+"stat_judo_key" = "Games_played,Victories,Defeats,Draws,Ippons,Attempts,Waza_Ari,Ranking,PointsRanking";
+"stat_judo" = "玩过的游戏,胜利,失败 ,平局,一分,尝试次数,Waza-Ari,排名,排名积分";
+"stat_judo_s" = "玩过的游戏,胜利,失败 ,平局,一分,尝试次数,W.A,排名,排名积分";
+
+"stat_korfball_key" = "Games_played,Victories,Defeats,Draws,Points,Rebounds,Assists,Steals,Blocks";
+"stat_korfball" = "玩过的游戏,胜利,失败 ,平局,点,篮板,助攻,拦截,阻攻";
+"stat_korfball_s" = "玩过的游戏,胜利,失败 ,平局,点,篮板,助攻,拦截,阻攻";
+
+"stat_softball_key" = "Games_played,Victories,Defeats,Draws,Home_Run,Hits,Runs,Bases_on_Balls,At_Bats,Assists,Sacrifice_Flies,Strikeouts,Hit_by_Pitch";
+"stat_softball" = "玩过的游戏,胜利,失败 ,平局,本垒打,命中 ,运行,基于球,打數,助攻,牺牲苍蝇,三振出局,觸身球";
+"stat_softball_s" = "玩过的游戏,胜利,失败 ,平局,本垒打,命中 ,运行,基于球,打數,助攻,牺牲苍蝇,三振出局,觸身球";
+
+"stat_floorball_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_floorball" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,拦截,成功停止,罚则";
+"stat_floorball_s" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,拦截,成功停止,罚则";
+
+"stat_sepak_takraw_key" = "Games_played,Victories,Defeats,Draws,Points,Assists,Successful_services,Successful_Receptions,Successful_passes,Bloc";
+"stat_sepak_takraw" = "玩过的游戏,胜利,失败 ,平局,点,助攻,成功服务,成功接待,成功通过,阻攻";
+"stat_sepak_takraw_s" = "玩过的游戏,胜利,失败 ,平局,点,助攻,成功服务,成功接待,成功通过,阻攻";
+
+"stat_water_polo_key" = "Games_played,Victories,Defeats,Draws,Goals,Assists,Interceptions,Successful_stops,Penalties";
+"stat_water_polo" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,拦截,成功停止,罚则";
+"stat_water_polo_s" = "玩过的游戏,胜利,失败 ,平局,球门,助攻,拦截,成功停止,罚则";
+
+"stat_coach_key" = "Games_played,Victories,Defeats,Draws,Ranking,Points_Ranking";
+"stat_coach" = "玩过的游戏,胜利,失败,平局,排名,排名积分";
+"stat_coach_s" = "玩过的游戏,胜利,失败,平局,排名,排名积分";
+
+"strength_football" = "运球,子弹保护,速度,空中决斗,耐力,机会创造,集中游戏,渗透,恢复,球保护,播放间隔,标记,拦截,铲球,头游戏,开枪,控制,中心,鳍,深通,短通,长通,长游戏,短游戏,战斗力,浓度,一对一,通过游戏,停止,目标退出,复兴,任意球,中心,侵略性,期待,敏捷";
+"strength_basketball" = "运球,通过,射击,块,反弹,进攻,防御,移动,违反,协助,犯规";
+"strength_american_football" = "运行,通过,阻塞,捕捉,冲,警卫,三重威胁,后卫,H-back,插槽,结束角后卫,安全,前卫,镍背,迪梅背,现场目标,朋特和踢,长捕捉器,朋特返回器,踢回器,干扰,普曼·冈纳,向上,实用";
+"strength_cricket" = "菲尔丁,运行,立场,击球,回举,向前和后退,离开,防守射门,驱动,电影,削减,方形驱动器,拉和钩,斯洛格,Slog 扫描,上切,开关命中,勺子 / 斜坡,直升机射击,快速保龄球,旋转保龄球,快速投球手交付,旋转保龄球交付";
+"strength_tennis" = "爆炸性,平衡,手眼协调,球判断,动机,浓度,右击,挫折,服务,足部游戏,期待,排球";
+"strength_rugby" = "运行,通过,抓,解决,踢,定位技能,规则,团队 合作,鲁克/莫尔斯,享受,捡球,处理球,接收通行证,用球移动,无球移动,解决,踢球,逃避处理,坚持不懈,在团队中工作,勇气,冷静,视觉,耐力";
+"strength_golf" = "握,立场,摆动,策略";
+"strength_baseball" = "打,飞,标记,菲尔丁,扔 ,抓,手眼协调,运行的基点,投手首先掩护,牺牲腔,挤压兔子,耗尽所有基地,命中并运行,蹦极和运行,双飞,继电器,保持基本跑步者,选取";
+"strength_ice_hockey" = "圆盘处理,通过,射击,运球,圆盘控制,斗杆处理,敏捷,平衡,边缘控制,前进滑冰,向后滑冰,把,分频器,过渡,快速脚,守门";
+"strength_field_hockey" = "圆盘处理,通过,射击,运球,圆盘控制,斗杆处理,敏捷,平衡,边缘控制,前进滑冰,向后滑冰,把,分频器,过渡,快速脚,守门";
+"strength_volley" = "服务,通过,设置,打,挖,阻塞";
+"strength_handball" = "打,运球,子弹保护,速度,空中决斗,耐力,机会创造,集中游戏,渗透,恢复,球保护,以间隔播放,干洗,标记,拦截,开枪,控制,中心,完成,深通,短通,长通,长游戏,短游戏,停止踢,领导,剽窃,通信,战斗力,浓度,一对一,停止,目标退出,复兴";
+"strength_badminton" = "握,滴,Lob,拥有,驱动器,摆动力学,法院运动,控制,移动对手,正手,反手,开销,裁判,规则和标记,服务,镜头,粉碎";
+"strength_squash" = "握,滴,Lob,拥有,驱动器,摆动力学,法院运动,控制,移动对手,正手,反手,开销,裁判,规则和标记,服务";
+"strength_table_tennis" = "正手,快速服务,前手推,反手推,正手轻拂,反手轻拂,反手循环,正手攻击,正手服务,反手服务";
+"strength_boxing" = "戳,十字架,钩,勾 拳,拳击姿势,拳击步法,冲床,头部移动";
+"strength_martial_art" = "重点,学科,记忆,努力,目标,步法,尊重,信心,倡议,道奇,攻击,游行,镜头,喷气式飞机";
+"strength_mma" = "摔跤,盖多久松,泰泰,贾布斯,上切,乱点和争吵,夹紧战斗,地面和磅,提交抓斗,击倒,拆除,提交";
+"strength_kick_boxing" = "疏远,防御,招架,块,道奇,返回,滚动冲孔,回避,费因廷,时间,头部移动,蒂普,强大的守卫,拳,踢,膝盖,肘击,席卷";
+"strength_wrestling" = "攻击,抛出,过渡移动,立场,运动,级别更改,渗透,提升,后退步骤,后拱";
+"strength_gymnastic" = "阿克罗技能,正向滚动,向后滚动,转弯,跳,飞跃,舍入,回手弹簧";
+"strength_athletics" = "反应,协调,平衡,柔软,耐力,权力,强度,速度";
+"strength_fencing" = "联合攻击,弓步,佯攻,招架,还击,反击,步法,战术轮,右击,间隙,切掉,防御行动,退休,股权,反击";
+"strength_judo" = "攻击,捍卫,抓住对手,控制对手,使用不平衡,下降,接地,固定,脱离固定";
+"strength_swimming" = "蛙泳,蝴蝶,爬网,回爬网,水舒适,呼吸控制,浮动,踢,中风,呼吸技术,车身旋转,拉取技术,描边率,描边长度,自由式踢";
+"strength_water_sports" = "呼吸技术,车身旋转,强,拉伸核心,手输入,捕获技术,拉取技术,描边率,描边长度,自由式踢";
+"strength_water_polo" = "耐力,团队 合作,扔,抓,通过,头游戏,开枪,控制,中心装饰,深通,短通,长通,长游戏,短游戏";
+"strength_autoracing" = "浓度,速度,期待,平静,反射,试剂,耐,安全规则,团队合作,掌握转向,把,制动,视图";
+"strength_motoracing" = "浓度,速度,期待,平静,反射,试剂,耐,安全规则,团队合作,掌握转向,把,制动,视图";
+"strength_cycling" = "浓度,速度,期待,平静,反射,试剂,耐,安全规则,团队合作,掌握转向,把,制动,视图,平衡,转移,脚踏,降";
+"strength_equestrian" = "盛装,耐力骑术,事件,控制,显示跳跃,恩特挂钩,跳马,赛马,驾驶,圈地";
+"strength_polo" = "大师球,熟练锤,盛装,耐力骑术,事件,控制,显示跳跃,恩特挂钩,跳马,赛马,驾驶,圈地";
+"strength_dance" = "运动,步伐,车身空间,时间,能源,合作伙伴关系,情感承诺";
+"strength_softball" = "基础运行,标记跑步者,投 球,扔,打,滑,外场飞球,场接地球,彩旗,接球,步法,基础运行,窃取防御,彩旗,邦特防御,双人游戏,切口,双重偷窃";
+"strength_sepak_takraw" = "内踢,户外踢,膝关节中风,头,服务,太阳背尖峰,滚动点";
+"strength_korfball" = "平衡,车身方向,计时移动,运动,球处理,间隙球,扔球,射击,移动,运行,单体球";
+"strength_floorball" = "个人技术,通过,接收,射击,运球,个人战术,游戏角色,移动";
+"strength_climbing" = "脚踏钻,车身位置,下垂,拍打,切割松动,使用卷,斜率,坐式启动,路线读取";
+"strength_mountaineering" = "反应,协调,平衡,柔软,耐力,权力,强度,速度,安全";
+"strength_canyoning" = "需要力量,心灵的力量,重点,避免自满,力量体,平衡,形状多样";
+"strength_trail" = "耐力,起 搏,短跑,恢复,反应,协调,平衡,柔软,耐力,权力,强度,速度,里思姆";
+"strength_triathlon" = "开始,停止,转弯,处理,交通,转移,节奏,爬,降,团体骑术";
+"strength_archery" = "重点,浓度,耐心肌肉,协调,平衡,稳定性...,距离能力,目的,视图,射击视觉";
+"strength_snowboarding" = "前/脚平衡...,身体独立,运动范围,轮流,保持稳定,种植你的电线杆,掌握边缘,深处理,新鲜粉末";
+"strength_skiing" = "前/脚平衡...,身体独立,运动范围,轮流,保持稳定,种植你的电线杆,掌握边缘,深处理,新鲜粉末,雕刻";
+"strength_ice_skating" = "坐在冰上,站起来冰,向前滑行,浸,前锋,向后摆动,雪犁,向前,向后移动,向后抚摸,一脚旋转,T-停止";
+"strength_bowls" = "点,开枪,发射,精度,轨迹游戏,站立或蹲下,滑,半散物,范围,开枪,木筏,铁";
+"strength_skateborard" = "踢滑,技巧,180°,360°,滑动研磨,不遵守,无骨,比斯平,大翻转,洞穴人 P,手架,奥利,抓住";
+"strength_crossfit_fitness" = "权力,速度,敏捷,手眼脚协调,平衡,反应时间,心血管形式,身体组成,跳,旋转,流动性,强度";
+"strength_weightlifting" = "权力,速度,敏捷,手眼脚协调,平衡,反应时间,心血管形式,身体组成,跳,旋转,流动性,强度";
+"strength_surf" = "雕刻,修剪,斜线,圆屋削减,离线,泡沫攀爬,浮子,尾部滑动,鼻涕,变化,开关姿势,360,踢滑,乘坐管,空中/航空,小巷,罗迪奥翻转,克鲁普翻转,弗林斯通翻转,寿司卷";
+"strength_sailing" = "操纵帆,伸向（外向）引线,把你的沉重的空气帆,胡须杆,帆设置,船平衡,脚跟,前修剪,尾部修剪,位置,跟踪";
+"strength_canoeing" = "握,良好的姿势,刀片控制,时间,平衡,节奏,效率,电源应用,赛艇 运动员,划船技巧,或向描边,绘制描边,交叉绘制描边,斯特恩撬冲,J 描边";
+"strength_rowing" = "握,良好的姿势,刀片控制,时间,平衡,节奏,效率,电源应用,赛艇 运动员,划船技巧,或向描边,绘制描边,交叉绘制描边,斯特恩撬冲,J 描边";
+"strength_winter_sport" = "反应,协调,平衡,柔软,耐力,权力,强度,速度,跳";
+"strength_air_sport" = "反应,协调,平衡,柔软,耐力,权力,强度,速度,跳";
+
+"terms_and_conditions" = "<h2 style=\"text-align: center;\">Welcome&nbsp;&nbsp;&nbsp;!</h2><p>&nbsp;</p><p>We are delighted that you have decided to use&nbsp;Aggone&nbsp;.&nbsp;We have drafted these terms of service so that you have full knowledge of the rules governing the relationship between us and us (and anyone interacting with&nbsp;Aggone&nbsp;).&nbsp;These conditions are indeed a binding contract between you and&nbsp;Aggone&nbsp;.&nbsp;We invite you to read them carefully.&nbsp;The use of our Services implies your acceptance of these conditions.&nbsp;Of course, if you do not accept them, you can not use the Services.&nbsp;Our mission is to connect all stakeholders in the sporting universe around the world to improve their&nbsp;productivity&nbsp;s&nbsp;s&nbsp;s&nbsp;and facilitate their&nbsp;success&nbsp;s.&nbsp;Our services are designed with the objective of promoting opportunities for our members to exchange ideas, to learn and to find sports opportunities to work and make decisions in the context&nbsp;of a serene relationship&nbsp;network&nbsp;of confidence.</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>1. Introduction</strong></p><p><strong>1.2 Members and Visitors</strong></p><p>When you register on&nbsp;Aggone&nbsp;you become a Member.&nbsp;If you chose not to sign up for our Services, you can access certain features as a visitor.&nbsp;Users of our Registered Services are \"Members\" and non-registered users are \"Visitors\".&nbsp;This Agreement applies to both.</p><p>&nbsp;</p><p><strong>1.3 Modification</strong></p><p>We may change this Agreement, our Privacy Policy and our Cookie Policy from time to time.&nbsp;If we make any material changes to it, we will notify you via our Services, or by other means, to give you the opportunity to review the changes before they take effect.&nbsp;If you object to any of the changes, you can&nbsp;&nbsp;&nbsp;close your account&nbsp;by mail address to our services under proof of identity&nbsp;.&nbsp;If you continue to use our Services after posting or sending notice of any changes we have made to these terms, you agree to the updated terms.</p><p>&nbsp;<strong>&nbsp;</strong></p><p><strong>&nbsp;</strong></p><p><strong>2</strong>&nbsp;<strong>.</strong>&nbsp;<strong>Obligations</strong></p><p><strong>2.1</strong>&nbsp;<strong>Right to Services</strong>&nbsp;<strong>and Registration</strong></p><p>In order to use the Services, you agree to the following conditions&nbsp;&nbsp;&nbsp;:</p><p>&nbsp;</p><ol><li>You will not provide false personal information about&nbsp;Aggone&nbsp;and will not create an account for another person without their permission.</li><li>You will only create one personal account.</li><li>If we delete your account, you will not create&nbsp;others without our permission&nbsp;.</li><li>You will not use&nbsp;Aggone&nbsp;if you are under 13 years old.However, in the event that the law requires that you are older than indicated for&nbsp;Aggonne&nbsp;to legally provide you services without parental consent (including the use of your personal data) the minimum age would then be the one stipulated in the law .</li><li>Members who were under this minimum age when they started using the Services under previous Terms of Use may continue to use the Services because they have the new Minimum Age since or will have it soon.</li><li>You will not use&nbsp;Aggone&nbsp;if you have been convicted of sexual violence or murder or anything that is related to terrorism.</li><li>You will not share your password and will not allow anyone to access your account or do anything that could compromise the security of your account.</li><li>Comply with the law and the&nbsp;rulesdescribed&nbsp;in the to-do list and not to do</li></ol><p><strong>2.2</strong>&nbsp;<strong>Security</strong>&nbsp;<strong>and regulation</strong>&nbsp;<br /> <br /> We do our utmost to make&nbsp;Aggone&nbsp;a safe service, but can not guarantee absolute safety.&nbsp;To ensure safety on&nbsp;Aggone&nbsp;, we need your help, which includes the following commitments from you:</p><ol><li>You will not post unauthorized commercial communications (such as unwanted messages) onAggone&nbsp;.</li><li>You will not obtain information about Internet users or the content they post, and will not accessAggone&nbsp;using automated methods (such as robots, spiders, etc.) without our prior permission.</li><li>You will not perform illegal multi-level marketing, such as pyramid schemes, onAggone&nbsp;.</li><li>You will not download any viruses or other malicious code.</li><li>You will not ask for login information and will not access an account owned by someone else.</li><li>You will not intimidate or harass others.</li><li>You will not post any content that incites hatred or violence, is pornographic, or contains nudity or gratuitous violence.</li><li>You will not develop or operate any third-party applications that contain alcoholic beverages, adult dating sites, or other adult products and services (including advertisements) without access restrictions. at the age.</li><li>You will not useAggone&nbsp;for any illegal, malicious or discriminatory purpose.</li><li>You will not act in a manner that could disable, overburden, or otherwise interfere with the proper operation or appearance ofAggone&nbsp;(such as an attack resulting in a denial of service or interference with the display of Pages or other features&nbsp;Aggone&nbsp;)&nbsp;.</li><li>Youwill not allow and will not&nbsp;encourage&nbsp;violations of this Declaration or our regulations.</li></ol><p><strong>2.3</strong>&nbsp;<strong>Notifications and messages from the Services</strong></p><p>You agree that we communicate with you via our websites, our applications and the contact information you have provided to us.&nbsp;If the contact information you have provided is out of date, important notifications may not be sent to you.&nbsp;You agree that we will notify you&nbsp;by the following means:&nbsp;a notification&nbsp;in the Service or&nbsp;a message sent to the contact information you have provided to us (for example, e-mail address, mobile number, physical address).&nbsp;You agree to keep your contact information up to date.</p><p><strong>2.4</strong>&nbsp;<strong>Sharing</strong></p><p>When you share information, this information can be viewed,&nbsp;shared&nbsp;and used by others.&nbsp;Our Services allow you to send messages and share information in multiple ways including through your profiles, slide sets, links to newspaper articles, ads,&nbsp;InMails&nbsp;and blogs.&nbsp;The information and content you share or post may be viewed by other Members or Visitors.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>3. Rights and restrictions</strong></p><p><strong>3.1</strong>&nbsp;<strong>Content</strong></p><p>You own all content, feedback and any personal data you provide to us but you also grant us a non-exclusive license to use them.&nbsp;You agree to only provide us with information&nbsp;and content that you&nbsp;have the&nbsp;right to share and to have a real profile&nbsp;.&nbsp;As part of the relationship between you and&nbsp;Aggone&nbsp;, you remain the owner of the content and information you submit or send to the Services, and you only grant&nbsp;Aggone&nbsp;the following non-exclusive license&nbsp;&nbsp;&nbsp;: a worldwide, assignable and sublicensable right to use, copy, modify, distribute, publish and process the information and content you provide through ourServices, without further consent&nbsp;.&nbsp;These rights are restricted as follows&nbsp;&nbsp;&nbsp;:</p><ol><li>You may terminate this license for specific content by deleting this content from the Services, or generally by closing your account, (a)unless, as part of the Services, you have shared this content with others who copied it, shared it again, or stored, and (b)&nbsp;&nbsp;&nbsp;subject to a reasonable time required to remove it from backup and other systems.</li><li>We will not include your content in advertisements for third party products and services without your specific consent (including the&nbsp;Sponsored&nbsp;Content).However, we have the right to place ads near your data and content without us being required to pay you or third parties financial compensation.&nbsp;Likewise, as stated in the&nbsp;Privacy&nbsp;Policy&nbsp;, your&nbsp;&nbsp;&nbsp;<em>social actions</em>&nbsp;&nbsp;&nbsp;on the&nbsp;Sponsored&nbsp;&nbsp;&nbsp;Content and the Company pages may be visible.</li><li>We will seek your consent if we wish to give third parties the right to publish your messages out of service.However, other Members and / or Visitors may access and share your content and data in accordance with your preferences.</li><li>Although we may change your content or layout (for example by translating it, changing its size, layout, or file type, deleting metadata), we will not change the meaning of your expression.</li><li>Since your content and data belong to you and we have only non-exclusive rights, you may choose to make them available to others&nbsp;.</li></ol><p>You agree that we may access, store and use the information you have provided in accordance with the terms of the Privacy Policy and your preferences (including settings).</p><p>By submitting suggestions or feedback on the Services to&nbsp;Aggone&nbsp;, you agree that we may use and share (without necessarily doing so) this feedback for any purpose and without providing you with financial compensation.</p><p>You agree to only provide content and data that does not violate any law or violates any person's rights (or any intellectual property rights).&nbsp;Likewise, you guarantee the veracity of the information in your profile.&nbsp;Under the law of some countries,&nbsp;Aggone&nbsp;may be required to remove content and information.</p><p>&nbsp;</p><p><strong>3.2 Availability of Services</strong></p><p><strong><strong>1&nbsp;- Services offered</strong></strong></p><ol><li>the application allows the user to publishinformation about their activity in the sportand to share and modify it.&nbsp;The purpose of the application and to allow the&nbsp;user&nbsp;to put forward their competence in their activity in the sport in&nbsp;written&nbsp;or video form.</li><li>You acknowledge and agree that you are solely responsible for your own Content and theconsequences of its dissemination.&nbsp;Aggone&nbsp;does not endorse any Content, or opinion, recommendation or opinion expressed in it, and&nbsp;Aggone&nbsp;expressly disclaims any&nbsp;and&nbsp;all liability for such Content.</li></ol><p>&nbsp;</p><ol start=\"3\"><li>You agree that your conduct onAggone(and all of your Content) respects the&nbsp;Aggone&nbsp;Community&nbsp;Rules&nbsp;, You also acknowledge that by simply using the Service, you may be exposed to Inaccurate, shocking, indecent or otherwise negative content.&nbsp;Aggone&nbsp;in no way be held responsible for the distribution of this type of Content.</li></ol><p>We may modify, suspend or terminate all Services, or change their prize potentially at our discretion.&nbsp;To the extent permitted by law, these changes will take effect as soon as you have been notified.You can change or suspend any Service.&nbsp;We do not guarantee that we will store or continue to display the information and content you have posted.</p><p>Aggone&nbsp;is not a Storage Service.&nbsp;You agree that no obligation to store, maintain or provide you with a copy of the information or content that you or others have provided to us is our responsibility, except to the extent required by applicable law and as described in our Privacy Policy.</p><p>&nbsp;</p><p><strong><strong><strong><strong>2. Registration data and use</strong></strong></strong></strong></p><p>When you register for the&nbsp;Aggone&nbsp;service&nbsp;, we may collect the information we request from you, such as your username, password, e-mail address, date of birth, gender, postal code and country .&nbsp;&nbsp;&nbsp;If you connect to the Service using your&nbsp;Facebook&nbsp;credentials&nbsp;, you authorize us to collect your authentication information, such as your user name, encrypted access information, and other information that may be available to you. Be available on or through your&nbsp;Facebook&nbsp;account&nbsp;, including your name, profile picture, country, hometown, e-mail address, date of birth, gender, friends names, and profile and network images.&nbsp;&nbsp;&nbsp;We may store this information so that it may be used for the purposes explained in the \"How We Use the Information We Collect\" section and may verify your credentials with&nbsp;Facebook&nbsp;.</p><p>Your information also includes the information you choose to share on&nbsp;Aggone&nbsp;, such as a wall message or comment.&nbsp;&nbsp;&nbsp;We may also collect information that you voluntarily add to your profile;&nbsp;&nbsp;&nbsp;As you are the size, the weight, the primary foot of the shirt number, the privileged position or your seasonal statistics for you to create your personal football identity.</p><p>We may use the information we collect, including your personal information, to: provide, personalize and improve your experience with our Service, ensure the technical operation of the service, develop new features and analyze your use of the service, including your interaction with the service Applications and services made available, linked to or offered to the service;&nbsp;&nbsp;&nbsp;Communicate with you for service-related reasons, including emails or promotional messages;&nbsp;&nbsp;&nbsp;Enable and promote the service, including the&nbsp;features and content of services made available through the service, such as sharing, user interactions, notifications and suggestions, and integrations with third-party services.</p><p><strong>3.3 Other sites, content and applications.</strong></p><p>Your use of the content and third-party information published on our Services is at your own risk.&nbsp;Aggones&nbsp;allows to put links via other website and application to share content on&nbsp;Aggones&nbsp;.&nbsp;We are not responsible for the activities of these&nbsp;third parties. The&nbsp;decision to access third-party applications or sites connected to our Services and to use them is your sole responsibility.&nbsp;If you authorize an application or third-party site to authenticate or connect to you through your&nbsp;Aggone&nbsp;account&nbsp;, that site or application may access your information and that of your contacts on&nbsp;Aggone&nbsp;.&nbsp;Because third-party apps and sites have their own Terms of Service and Privacy Policy, you may be required to give them permission to use your information in a way that is different from ours.&nbsp;Except in limited cases where the applicable law requires it,&nbsp;Aggone&nbsp;is not responsible for these other sites and applications.&nbsp;You use them at your own risk.</p><p><strong>3.4 Restrictions</strong></p><p>We have the right to restrict the way you connect and interact with our Services.&nbsp;Aggone&nbsp;reserves the right to limit your use of the Services, including the number of your relationships and your ability to contact other members.&nbsp;Aggone&nbsp;reserves the right to restrict, suspend or&nbsp;terminate&nbsp;your account if&nbsp;Aggone&nbsp;believes that you may be violating this Agreement or the law or that your use of the Services is unreasonable (for example, if you do not comply with Article Do's and Don'ts).</p><p><strong>3.5 Intellectual property rights</strong></p><p>We inform you of our rights in intellectual property.</p><p>Aggone&nbsp;reserves all of its intellectual property rights related to the Services.&nbsp;Use of the Services does not grant you ownership of our Services or the content or information available through our Services.The brands and logos used in connection with the Services may belong to third parties.&nbsp;Aggone&nbsp;, the logos bearing the \"in\" mark and other marks, service marks, illustrations and&nbsp;Aggone&nbsp;logos&nbsp;used in our Services are trademarks or registered trademarks of&nbsp;Aggone&nbsp;.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><strong><strong><strong><strong>4. Exemption and limitation of liability</strong></strong></strong></strong></p><p>We try to provide a fault free environment and on, we provide&nbsp;Aggone&nbsp;\"as is\" without express or implied warranties.&nbsp;We do not guarantee that we are always on, secure or error-free or that&nbsp;Aggone&nbsp;always operates without interruption, delay or imperfections.&nbsp;Aggone&nbsp;assumes no liability for actions contained third party information or data.&nbsp;You release&nbsp;Aggone&nbsp;and all members of the company that makes it from any liability for any claim or damage known or unknown emanating from any complaints you have against or relating to such third parties.&nbsp;By using&nbsp;or accessing&nbsp;Aggone&nbsp;, you are giving&nbsp;Aggonepermission&nbsp;to&nbsp;collect&nbsp;the shared content and information&nbsp;.&nbsp;this statement&nbsp;may be updated from time to time&nbsp;as we wish&nbsp;.</p><p><strong>&nbsp;</strong></p><p><strong>Contact Us</strong></p><p>&nbsp;Aggone invites you to share your comments, questions, doubts or suggestions. Please send them to us in email Aggone13013@gmail.com</p><p>&nbsp;</p>";

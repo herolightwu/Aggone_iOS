@@ -1,0 +1,1521 @@
+
+/* Class = "UILabel"; text = "Staff"; ObjectID = "0F5-IT-0Rb"; */
+"0F5-IT-0Rb.text" = "Mitarbeiter";
+
+/* Class = "UILabel"; text = "Kharbouchi Abodeliah"; ObjectID = "0FY-cN-D2b"; */
+"0FY-cN-D2b.text" = "Kharbouchi Abodeliah";
+
+/* Class = "UIButton"; normalTitle = "View Profile"; ObjectID = "0LN-fa-exr"; */
+"0LN-fa-exr.normalTitle" = "Profil anzeigen";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "0RR-a2-01c"; */
+"0RR-a2-01c.text" = "Stadt";
+
+/* Class = "UILabel"; text = "As Player"; ObjectID = "0Ug-Fa-GZ3"; */
+"0Ug-Fa-GZ3.text" = "Als Spieler";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "0dn-va-nN1"; */
+"0dn-va-nN1.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "Physical Quantities"; ObjectID = "0lg-1J-ekA"; */
+"0lg-1J-ekA.text" = "Physikalische Mengen";
+
+/* Class = "UIButton"; normalTitle = "Blocked"; ObjectID = "10T-I5-Pby"; */
+"10T-I5-Pby.normalTitle" = "Blockiert";
+
+/* Class = "UILabel"; text = "Team / Club"; ObjectID = "15D-n9-Axb"; */
+"15D-n9-Axb.text" = "Mannschaft / Verein";
+
+/* Class = "UILabel"; text = "www.Kharbouchi"; ObjectID = "197-ZF-ZwJ"; */
+"197-ZF-ZwJ.text" = "www.Kharbouchi";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "1Su-y0-bs1"; */
+"1Su-y0-bs1.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "1eB-uz-4b5"; */
+"1eB-uz-4b5.text" = "Statistiken";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1rC-5r-bmo"; */
+"1rC-5r-bmo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "24G-dG-1hh"; */
+"24G-dG-1hh.text" = "Passwort";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "2AC-0V-FAK"; */
+"2AC-0V-FAK.text" = "Geschlecht";
+
+/* Class = "UILabel"; text = "Kharbouchi Abdellah"; ObjectID = "2ET-xU-dip"; */
+"2ET-xU-dip.text" = "Kharbouchi Abdellah";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "2Nl-mv-MlK"; */
+"2Nl-mv-MlK.text" = "Profil";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2Xc-vX-qmy"; */
+"2Xc-vX-qmy.text" = "Email";
+
+/* Class = "UILabel"; text = "I'm looking for a club"; ObjectID = "2Xz-Ue-mNG"; */
+"2Xz-Ue-mNG.text" = "Ich suche einen Verein";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2fO-cm-e8d"; */
+"2fO-cm-e8d.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "2m5-mW-yeh"; */
+"2m5-mW-yeh.text" = "1";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "2oo-th-FaF"; */
+"2oo-th-FaF.text" = "Spieler";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "2px-9C-KIg"; */
+"2px-9C-KIg.text" = "D";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "2vm-8v-y4u"; */
+"2vm-8v-y4u.normalTitle" = "Auswählen";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "3Kg-BA-zGm"; */
+"3Kg-BA-zGm.text" = "Verein";
+
+/* Class = "UILabel"; text = "Andrea Romanic Against Kochi FC"; ObjectID = "3Ud-eG-9U6"; */
+"3Ud-eG-9U6.text" = "Andrea Romanic Against Kochi FC";
+
+/* Class = "UILabel"; text = "Modify Profile"; ObjectID = "3fB-1M-O7n"; */
+"3fB-1M-O7n.text" = "Profil ändern";
+
+/* Class = "UILabel"; text = "Prizes"; ObjectID = "3lZ-YO-ZQl"; */
+"3lZ-YO-ZQl.text" = "Preise";
+
+/* Class = "UILabel"; text = "Tactics"; ObjectID = "3mu-NT-R0j"; */
+"3mu-NT-R0j.text" = "Taktik";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "4Se-zY-FbW"; */
+"4Se-zY-FbW.text" = "Stadt";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4T5-Yw-Vpd"; */
+"4T5-Yw-Vpd.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "4aB-SZ-mP9"; */
+"4aB-SZ-mP9.normalTitle" = "Suche";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4wc-46-f1V"; */
+"4wc-46-f1V.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "4zh-uR-IcU"; */
+"4zh-uR-IcU.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "Publish"; ObjectID = "4zv-RP-yS7"; */
+"4zv-RP-yS7.text" = "Veröffentlichen";
+
+/* Class = "UILabel"; text = "Views on Video"; ObjectID = "53s-dY-FBi"; */
+"53s-dY-FBi.text" = "Video ansehen";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "582-go-7k4"; */
+"582-go-7k4.text" = "Lesezeichen";
+
+/* Class = "UILabel"; text = "Dribbling"; ObjectID = "5A1-EX-ZFu"; */
+"5A1-EX-ZFu.text" = "Dribbling";
+
+/* Class = "UILabel"; text = "Ad"; ObjectID = "5BI-fe-61r"; */
+"5BI-fe-61r.text" = "Anzeige";
+
+/* Class = "UILabel"; text = "My Bicycle kick from left wing to settle the score"; ObjectID = "5Bx-3i-Lki"; */
+"5Bx-3i-Lki.text" = "Mein Fahrrad-Kick vom linken Flügel, um die Punktzahl zu begleichen";
+
+/* Class = "UILabel"; text = "Dribbling"; ObjectID = "5Lu-gb-OTf"; */
+"5Lu-gb-OTf.text" = "Dribbling";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "5TZ-Mw-Jd5"; */
+"5TZ-Mw-Jd5.text" = "12";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "5YI-yR-FSL"; */
+"5YI-yR-FSL.text" = "Benutzername";
+
+/* Class = "UILabel"; text = "KG"; ObjectID = "5ac-d6-gsg"; */
+"5ac-d6-gsg.text" = "KG";
+
+/* Class = "UILabel"; text = "Graphs"; ObjectID = "5ff-os-yoQ"; */
+"5ff-os-yoQ.text" = "Diagramme";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5hC-W5-PaU"; */
+"5hC-W5-PaU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Following"; ObjectID = "61K-F5-VAP"; */
+"61K-F5-VAP.normalTitle" = "Folgende";
+
+/* Class = "UILabel"; text = "5 mins ago"; ObjectID = "65c-ZT-t33"; */
+"65c-ZT-t33.text" = "5 mins ago";
+
+/* Class = "UITextField"; placeholder = "Reply privately"; ObjectID = "68C-Kd-lQE"; */
+"68C-Kd-lQE.placeholder" = "Privat antworten";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "6ZV-PZ-UrY"; */
+"6ZV-PZ-UrY.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6cY-gm-aFY"; */
+"6cY-gm-aFY.text" = "Label";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "6hO-Dp-2Rp"; */
+"6hO-Dp-2Rp.text" = "12";
+
+/* Class = "UILabel"; text = "Advanced Stats"; ObjectID = "6i1-up-x3w"; */
+"6i1-up-x3w.text" = "Erweiterte Statistiken";
+
+/* Class = "UILabel"; text = "Publish"; ObjectID = "6s3-Jg-E3H"; */
+"6s3-Jg-E3H.text" = "Veröffentlichen";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "71t-xc-HyB"; */
+"71t-xc-HyB.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "730-zT-DMg"; */
+"730-zT-DMg.normalTitle" = "Heute";
+
+/* Class = "UIButton"; normalTitle = "Player"; ObjectID = "7IM-2n-B5N"; */
+"7IM-2n-B5N.normalTitle" = "Spieler";
+
+/* Class = "UILabel"; text = "Victory "; ObjectID = "7UT-Uk-qbA"; */
+"7UT-Uk-qbA.text" = "Sieg ";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "7gJ-wp-gST"; */
+"7gJ-wp-gST.normalTitle" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "Recommendations"; ObjectID = "7su-FY-Efk"; */
+"7su-FY-Efk.text" = "Empfehlungen";
+
+/* Class = "UILabel"; text = "Blocked User"; ObjectID = "7u6-4l-wJc"; */
+"7u6-4l-wJc.text" = "Blockierter Benutzer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "89t-ra-OlG"; */
+"89t-ra-OlG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "8E6-Js-lLk"; */
+"8E6-Js-lLk.text" = "Position";
+
+/* Class = "UIButton"; normalTitle = "Paris"; ObjectID = "8Vh-9G-yxx"; */
+"8Vh-9G-yxx.normalTitle" = "Paris";
+
+/* Class = "UILabel"; text = "Draw "; ObjectID = "8Wf-8Y-YSx"; */
+"8Wf-8Y-YSx.text" = "Zeichnen ";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "8gN-Uu-TcN"; */
+"8gN-Uu-TcN.normalTitle" = "Löschen";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8sa-BX-BZ4"; */
+"8sa-BX-BZ4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "9EQ-o8-atv"; */
+"9EQ-o8-atv.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "9EY-ii-WkB"; */
+"9EY-ii-WkB.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "Career"; ObjectID = "9JF-pJ-Ius"; */
+"9JF-pJ-Ius.text" = "Karriere";
+
+/* Class = "UILabel"; text = "Brand/Sponsor/Media..."; ObjectID = "9VE-Hy-IyM"; */
+"9VE-Hy-IyM.text" = "Marke/Sponsor/Média…";
+
+/* Class = "UILabel"; text = "Germany"; ObjectID = "9Yx-TP-hyf"; */
+"9Yx-TP-hyf.text" = "Deutschland";
+
+/* Class = "UILabel"; text = "Videos"; ObjectID = "9ft-kP-Mth"; */
+"9ft-kP-Mth.text" = "Videos";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "9qG-nM-Rmi"; */
+"9qG-nM-Rmi.normalTitle" = "Fußball";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A2X-ju-9ma"; */
+"A2X-ju-9ma.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Assess"; ObjectID = "AD3-FL-dEq"; */
+"AD3-FL-dEq.text" = "Bewerten";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "ADO-kX-4hH"; */
+"ADO-kX-4hH.text" = "Statistiken";
+
+/* Class = "UIButton"; normalTitle = "Month"; ObjectID = "AE7-0i-QkV"; */
+"AE7-0i-QkV.normalTitle" = "Monat";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "AMY-tL-Nes"; */
+"AMY-tL-Nes.text" = "Unternehmen";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "AQi-ZL-C6t"; */
+"AQi-ZL-C6t.text" = "Sterne";
+
+/* Class = "UIButton"; normalTitle = "View Profile"; ObjectID = "AQu-5u-7mA"; */
+"AQu-5u-7mA.normalTitle" = "Profil anzeigen";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "AV8-Yu-Gvs"; */
+"AV8-Yu-Gvs.text" = "Kategorie";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "AVM-Mo-S9c"; */
+"AVM-Mo-S9c.text" = "Gewicht";
+
+/* Class = "UILabel"; text = "145,526"; ObjectID = "Aaf-Pi-gJn"; */
+"Aaf-Pi-gJn.text" = "145,526";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Auh-X6-rUI"; */
+"Auh-X6-rUI.text" = "Label";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Ayo-NZ-1Tb"; */
+"Ayo-NZ-1Tb.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Azu-9Q-OUT"; */
+"Azu-9Q-OUT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B9K-I2-R3j"; */
+"B9K-I2-R3j.text" = "Label";
+
+/* Class = "UILabel"; text = "Change Photo"; ObjectID = "BAK-Ks-Bg1"; */
+"BAK-Ks-Bg1.text" = "Ändern Foto";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "BDp-l5-5zo"; */
+"BDp-l5-5zo.normalTitle" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "BEC-0p-WYb"; */
+"BEC-0p-WYb.text" = "Details";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "BNs-MT-J05"; */
+"BNs-MT-J05.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "BRG-o1-IYp"; */
+"BRG-o1-IYp.text" = "D";
+
+/* Class = "UILabel"; text = "Graphs"; ObjectID = "BRQ-YG-Nuc"; */
+"BRQ-YG-Nuc.text" = "Diagramme";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "BTj-LN-oZA"; */
+"BTj-LN-oZA.text" = "Passwort ändern";
+
+/* Class = "UILabel"; text = "People"; ObjectID = "BUe-jv-p05"; */
+"BUe-jv-p05.text" = "Menschen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BYv-P0-sWE"; */
+"BYv-P0-sWE.text" = "Label";
+
+/* Class = "UILabel"; text = "Confirm Your Password"; ObjectID = "Blc-g6-gbD"; */
+"Blc-g6-gbD.text" = "Bestätige dein Passwort";
+
+/* Class = "UILabel"; text = "The Filter"; ObjectID = "BmU-Mo-G63"; */
+"BmU-Mo-G63.text" = "Der Filter";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BwM-qb-02K"; */
+"BwM-qb-02K.text" = "Label";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "CF0-ij-OhF"; */
+"CF0-ij-OhF.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "My Subscriptions"; ObjectID = "CJY-cQ-CK0"; */
+"CJY-cQ-CK0.text" = "Meine Abonnements";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "CT2-id-kCQ"; */
+"CT2-id-kCQ.text" = "Monat";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "CaT-W8-c11"; */
+"CaT-W8-c11.text" = "Jahr";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CwD-UE-PGW"; */
+"CwD-UE-PGW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "Czp-yb-WPF"; */
+"Czp-yb-WPF.text" = "Monat";
+
+/* Class = "UILabel"; text = "Kharbouchi Abodeliah"; ObjectID = "DDy-Fh-7IR"; */
+"DDy-Fh-7IR.text" = "Kharbouchi Abodeliah";
+
+/* Class = "UILabel"; text = "Individual Technique"; ObjectID = "DIW-GP-riR"; */
+"DIW-GP-riR.text" = "Individuelle Technik";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "DJc-eX-PXj"; */
+"DJc-eX-PXj.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Psychomotility"; ObjectID = "DJe-Iv-vlx"; */
+"DJe-Iv-vlx.text" = "Psychomotility";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DMQ-vc-smT"; */
+"DMQ-vc-smT.text" = "Label";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "DOV-ZC-vL8"; */
+"DOV-ZC-vL8.text" = "Land";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Dcn-OZ-eFN"; */
+"Dcn-OZ-eFN.normalTitle" = "Bestätigen";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "Dmv-1u-sKJ"; */
+"Dmv-1u-sKJ.text" = "Aktivität";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DtL-Ka-sHE"; */
+"DtL-Ka-sHE.text" = "Label";
+
+/* Class = "UILabel"; text = "22k Subscribers"; ObjectID = "EOD-9h-6jM"; */
+"EOD-9h-6jM.text" = "22k Abonnenten";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "EYd-pJ-Ktq"; */
+"EYd-pJ-Ktq.text" = "Video";
+
+/* Class = "UILabel"; text = "Skills"; ObjectID = "Eaa-36-13h"; */
+"Eaa-36-13h.text" = "Kompetenzen";
+
+/* Class = "UIButton"; normalTitle = "Download"; ObjectID = "Ebg-0r-sa0"; */
+"Ebg-0r-sa0.normalTitle" = "Herunterladen";
+
+/* Class = "UILabel"; text = "Recorded"; ObjectID = "Euj-lx-M0M"; */
+"Euj-lx-M0M.text" = "Verzeichnet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FA4-Qy-Xd6"; */
+"FA4-Qy-Xd6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "FM7-gw-fp4"; */
+"FM7-gw-fp4.text" = "Als Coach";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FUW-PI-Ict"; */
+"FUW-PI-Ict.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "Fad-4p-Xxx"; */
+"Fad-4p-Xxx.normalTitle" = "Folgen";
+
+/* Class = "UILabel"; text = "Kharbouchi Abdellah"; ObjectID = "Fdc-Dz-rRi"; */
+"Fdc-Dz-rRi.text" = "Kharbouchi Abdellah";
+
+/* Class = "UILabel"; text = "Romania"; ObjectID = "Few-GA-xgq"; */
+"Few-GA-xgq.text" = "Rumänien";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fik-WT-YFw"; */
+"Fik-WT-YFw.text" = "Label";
+
+/* Class = "UILabel"; text = "Victory "; ObjectID = "FuT-m6-nGX"; */
+"FuT-m6-nGX.text" = "Sieg ";
+
+/* Class = "UILabel"; text = "Psychomotility"; ObjectID = "G2Q-hR-jfw"; */
+"G2Q-hR-jfw.text" = "Psychomotility";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G3A-NW-kFu"; */
+"G3A-NW-kFu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "G6L-um-iCa"; */
+"G6L-um-iCa.text" = "Stadt";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "GRC-7t-1el"; */
+"GRC-7t-1el.text" = "Katzen";
+
+/* Class = "UILabel"; text = "CF"; ObjectID = "GSf-vn-mcZ"; */
+"GSf-vn-mcZ.text" = "CF";
+
+/* Class = "UILabel"; text = "Agent"; ObjectID = "GZx-Jv-6QX"; */
+"GZx-Jv-6QX.text" = "Agent";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "Gbt-jp-Lj3"; */
+"Gbt-jp-Lj3.text" = "Fußball";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "GrW-rH-xYD"; */
+"GrW-rH-xYD.text" = "40";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "Gt0-cj-t8K"; */
+"Gt0-cj-t8K.text" = "21";
+
+/* Class = "UILabel"; text = "Edit Stats"; ObjectID = "H3T-My-w3L"; */
+"H3T-My-w3L.text" = "Bearbeiten von Statistiken";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "HIk-vn-0V7"; */
+"HIk-vn-0V7.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "YEARS"; ObjectID = "HMJ-bi-e2f"; */
+"HMJ-bi-e2f.text" = "Jahre";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "HMf-7a-zoi"; */
+"HMf-7a-zoi.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "HaS-fR-7I1"; */
+"HaS-fR-7I1.text" = "Jahr";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HdQ-Cg-1sX"; */
+"HdQ-Cg-1sX.text" = "Label";
+
+/* Class = "UILabel"; text = "Staff"; ObjectID = "Hgb-yK-NKO"; */
+"Hgb-yK-NKO.text" = "Mitarbeiter";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "HuP-W2-Ldk"; */
+"HuP-W2-Ldk.text" = "Höhe";
+
+/* Class = "UILabel"; text = "Posted"; ObjectID = "Hzp-ZM-9sk"; */
+"Hzp-ZM-9sk.text" = "Gesendet";
+
+/* Class = "UILabel"; text = "Graphs"; ObjectID = "IDx-97-oDc"; */
+"IDx-97-oDc.text" = "Diagramme";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "IPG-SK-TUg"; */
+"IPG-SK-TUg.text" = "40";
+
+/* Class = "UILabel"; text = "Advanced Searching"; ObjectID = "IQn-OY-nDk"; */
+"IQn-OY-nDk.text" = "Erweiterte Suche";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "IUy-Uo-erI"; */
+"IUy-Uo-erI.normalTitle" = "Anwenden";
+
+/* Class = "UILabel"; text = "V"; ObjectID = "IYm-Ce-ytu"; */
+"IYm-Ce-ytu.text" = "V";
+
+/* Class = "UILabel"; text = "Messi 2018 Best goals"; ObjectID = "Ibo-Gg-5Ga"; */
+"Ibo-Gg-5Ga.text" = "Messi 2018 Best goals";
+
+/* Class = "UILabel"; text = "Cm"; ObjectID = "IcR-fZ-XCh"; */
+"IcR-fZ-XCh.text" = "Cm";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "JCO-d8-vBp"; */
+"JCO-d8-vBp.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "180"; ObjectID = "JJZ-da-Mk4"; */
+"JJZ-da-Mk4.text" = "180";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "JV2-vV-lrn"; */
+"JV2-vV-lrn.text" = "Lesezeichen";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Jbp-0q-4b4"; */
+"Jbp-0q-4b4.text" = "Passwort";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JhQ-kw-5Kh"; */
+"JhQ-kw-5Kh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "Jm1-DO-uKs"; */
+"Jm1-DO-uKs.normalTitle" = "Anwenden";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "JrT-fV-7Sc"; */
+"JrT-fV-7Sc.text" = "40";
+
+/* Class = "UILabel"; text = "Pref Indicator"; ObjectID = "K0b-4X-vr9"; */
+"K0b-4X-vr9.text" = "Perf Indikator";
+
+/* Class = "UILabel"; text = "Tagged Users"; ObjectID = "K17-4T-IEP"; */
+"K17-4T-IEP.text" = "Tagged-Benutzer";
+
+/* Class = "UILabel"; text = "Jacob Gibson"; ObjectID = "K32-UZ-CzT"; */
+"K32-UZ-CzT.text" = "Jacob Gibson";
+
+/* Class = "UILabel"; text = "Let the world know about your requirement"; ObjectID = "K7M-cV-h2c"; */
+"K7M-cV-h2c.text" = "Informieren Sie die Welt über die Anforderungen";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "K8z-VW-R2s"; */
+"K8z-VW-R2s.text" = "1";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "KC2-DV-6ui"; */
+"KC2-DV-6ui.text" = "12";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KG8-8z-RBC"; */
+"KG8-8z-RBC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KZ2-Gv-APK"; */
+"KZ2-Gv-APK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "My Subscribers"; ObjectID = "Kvg-ri-dxy"; */
+"Kvg-ri-dxy.text" = "Meine Abonnenten";
+
+/* Class = "UILabel"; text = "Dribbling"; ObjectID = "Kwt-xx-CA6"; */
+"Kwt-xx-CA6.text" = "Dribbling";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "LKA-I5-Dor"; */
+"LKA-I5-Dor.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "LRp-BS-ef7"; */
+"LRp-BS-ef7.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "LSW-Fy-hGP"; */
+"LSW-Fy-hGP.text" = "Bericht";
+
+/* Class = "UILabel"; text = "Create an Ad"; ObjectID = "LXF-A3-XMp"; */
+"LXF-A3-XMp.text" = "Erstellen Sie eine Anzeige";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LhF-VM-XBI"; */
+"LhF-VM-XBI.text" = "Label";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "Llm-nT-6O0"; */
+"Llm-nT-6O0.text" = "Geschlecht";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "LqK-uf-mw2"; */
+"LqK-uf-mw2.text" = "Website";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "LxN-vq-JiW"; */
+"LxN-vq-JiW.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "M2n-8f-eiD"; */
+"M2n-8f-eiD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Victory "; ObjectID = "M42-eG-HsE"; */
+"M42-eG-HsE.text" = "Sieg ";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "MFI-4J-tct"; */
+"MFI-4J-tct.text" = "Bearbeitungsprofil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MIR-NO-TIE"; */
+"MIR-NO-TIE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MJk-w0-AjU"; */
+"MJk-w0-AjU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2020-UFC"; ObjectID = "MTk-ZE-e0b"; */
+"MTk-ZE-e0b.text" = "2020-UFC";
+
+/* Class = "UILabel"; text = "Advanced Stats"; ObjectID = "Mcd-Rd-dBQ"; */
+"Mcd-Rd-dBQ.text" = "Erweiterte Statistiken";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mon-r2-iWH"; */
+"Mon-r2-iWH.text" = "Label";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "Ms6-YE-8Xt"; */
+"Ms6-YE-8Xt.text" = "Kontaktiere uns";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "NIh-Wt-cvB"; */
+"NIh-Wt-cvB.text" = "Position";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "NQ3-VU-q4c"; */
+"NQ3-VU-q4c.text" = "Geschlecht";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "OEi-X8-Tbf"; */
+"OEi-X8-Tbf.text" = "Sterne";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ONf-Lz-g7f"; */
+"ONf-Lz-g7f.text" = "Label";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "OOW-CS-Kcw"; */
+"OOW-CS-Kcw.text" = "Benutzername";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ORb-Nu-tWJ"; */
+"ORb-Nu-tWJ.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "OiN-TH-78B"; */
+"OiN-TH-78B.text" = "Unternehmen";
+
+/* Class = "UILabel"; text = "Views on Video"; ObjectID = "Oig-Nb-zfn"; */
+"Oig-Nb-zfn.text" = "Video ansehen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oq0-Zq-AIX"; */
+"Oq0-Zq-AIX.text" = "Label";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "OzN-lT-Cuc"; */
+"OzN-lT-Cuc.text" = "Kg";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "P6p-U8-qQS"; */
+"P6p-U8-qQS.text" = "Stadt";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "P8e-Wv-Thw"; */
+"P8e-Wv-Thw.text" = "Botschaft";
+
+/* Class = "UILabel"; text = "+45 66 85 954"; ObjectID = "PC4-14-seX"; */
+"PC4-14-seX.text" = "+45 66 85 954";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "PRh-s2-ft8"; */
+"PRh-s2-ft8.text" = "Kategorie";
+
+/* Class = "UIButton"; normalTitle = "2019"; ObjectID = "Pdw-tE-XXh"; */
+"Pdw-tE-XXh.normalTitle" = "2019";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "Pe3-Ra-nY5"; */
+"Pe3-Ra-nY5.text" = "D";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pgz-Cu-Fcr"; */
+"Pgz-Cu-Fcr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Add Stats"; ObjectID = "Pqu-Xt-P4G"; */
+"Pqu-Xt-P4G.text" = "Stats hinzufügen";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "Pzm-tu-Avw"; */
+"Pzm-tu-Avw.text" = "Zuhause";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Q1b-Af-gWx"; */
+"Q1b-Af-gWx.text" = "Beschreibung";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q8D-tv-roE"; */
+"Q8D-tv-roE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "QDf-IA-RhY"; */
+"QDf-IA-RhY.text" = "Alter";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QEH-Sm-dfV"; */
+"QEH-Sm-dfV.text" = "Label";
+
+/* Class = "UILabel"; text = "Messi 2018 Best goals"; ObjectID = "QHq-vY-pN7"; */
+"QHq-vY-pN7.text" = "Messi 2018 Best goals";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QUY-IK-Xv1"; */
+"QUY-IK-Xv1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "I'm looking for a player"; ObjectID = "Qhc-3c-pK5"; */
+"Qhc-3c-pK5.text" = "Ich suche einen Spieler";
+
+/* Class = "UILabel"; text = "Berlin"; ObjectID = "R1Q-Mo-aCm"; */
+"R1Q-Mo-aCm.text" = "Berlin";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "R35-pL-cCl"; */
+"R35-pL-cCl.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Strengths"; ObjectID = "RF3-9U-iJi"; */
+"RF3-9U-iJi.text" = "Stärken";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "RTt-Ge-Rlr"; */
+"RTt-Ge-Rlr.text" = "Jahre";
+
+/* Class = "UILabel"; text = "Recorded"; ObjectID = "RTv-wb-Ubj"; */
+"RTv-wb-Ubj.text" = "Verzeichnet";
+
+/* Class = "UIButton"; normalTitle = "07"; ObjectID = "Rbv-Oo-mCe"; */
+"Rbv-Oo-mCe.normalTitle" = "07";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RdD-PC-pWP"; */
+"RdD-PC-pWP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coach"; ObjectID = "Rjn-93-Vzj"; */
+"Rjn-93-Vzj.text" = "Coach";
+
+/* Class = "UILabel"; text = "Visitors"; ObjectID = "SC0-O7-5Cf"; */
+"SC0-O7-5Cf.text" = "Besucher";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SJG-Oc-4pH"; */
+"SJG-Oc-4pH.text" = "Label";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "SJr-wK-skK"; */
+"SJr-wK-skK.text" = "Nachrichten";
+
+/* Class = "UILabel"; text = "How can I forgot you"; ObjectID = "SbD-Iz-CkW"; */
+"SbD-Iz-CkW.text" = "Wie kann ich dich vergessen haben?";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "Sf2-3S-aqf"; */
+"Sf2-3S-aqf.text" = "Zuhause";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Sl5-SQ-B3v"; */
+"Sl5-SQ-B3v.text" = "1";
+
+/* Class = "UILabel"; text = "dskjfdskfjkasdjfkla sjfklasj kljsdklfj jskdfjdskj lasjfkl kdsjfkdsj fjdsfkjsk jasdkfjdkls "; ObjectID = "Syb-cb-Rpj"; */
+"Syb-cb-Rpj.text" = "dskjfdskfjkasdjfkla sjfklasj kljsdklfj jskdfjdskj lasjfkl kdsjfkdsj fjdsfkjsk jasdkfjdkls ";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "T1W-We-Hkb"; */
+"T1W-We-Hkb.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Defeat "; ObjectID = "TBj-OF-4AX"; */
+"TBj-OF-4AX.text" = "Niederlage ";
+
+/* Class = "UILabel"; text = "7k"; ObjectID = "TXD-BL-bAa"; */
+"TXD-BL-bAa.text" = "7k";
+
+/* Class = "UILabel"; text = "How can I forgot you. You are such a wonderful person I was just asking Helana About you"; ObjectID = "TZ2-tW-HYR"; */
+"TZ2-tW-HYR.text" = "Wie kann ich dich vergessen. Du bist so ein wunderbarer Mensch, den ich gerade helana über dich gefragt habe";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "TaK-vp-dgr"; */
+"TaK-vp-dgr.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "Now"; ObjectID = "TbJ-RV-nD8"; */
+"TbJ-RV-nD8.text" = "jetzt";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "Tgk-yX-kxv"; */
+"Tgk-yX-kxv.text" = "Benachrichtigung";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Tif-HM-yUr"; */
+"Tif-HM-yUr.text" = "1";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "TlG-Q5-R3k"; */
+"TlG-Q5-R3k.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "ToV-HM-dnD"; */
+"ToV-HM-dnD.text" = "Höhe";
+
+/* Class = "UIButton"; normalTitle = "My News Feed"; ObjectID = "TpS-8f-sex"; */
+"TpS-8f-sex.normalTitle" = "Mein News Feed";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "Tx9-vj-fcs"; */
+"Tx9-vj-fcs.text" = "Katzen";
+
+/* Class = "UILabel"; text = "Kharbouchi@"; ObjectID = "U2J-WW-sJO"; */
+"U2J-WW-sJO.text" = "Kharbouchi@";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "ULK-PW-ror"; */
+"ULK-PW-ror.normalTitle" = "Folgen";
+
+/* Class = "UILabel"; text = "Psychological qualities"; ObjectID = "ULw-TA-Qvm"; */
+"ULw-TA-Qvm.text" = "Psychologische Qualitäten";
+
+/* Class = "UILabel"; text = "Looking for Club"; ObjectID = "Ual-lp-JwO"; */
+"Ual-lp-JwO.text" = "Auf der Suche nach einem Verein";
+
+/* Class = "UILabel"; text = "7k"; ObjectID = "Ueg-IU-t4P"; */
+"Ueg-IU-t4P.text" = "7k";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "Ult-M4-lz4"; */
+"Ult-M4-lz4.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "V5j-Z7-m3W"; */
+"V5j-Z7-m3W.text" = "Sport";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VMW-r9-nZs"; */
+"VMW-r9-nZs.text" = "Label";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "VWD-EF-e9T"; */
+"VWD-EF-e9T.text" = "Zuhause";
+
+/* Class = "UILabel"; text = "Defeat "; ObjectID = "Vlx-Lt-X7N"; */
+"Vlx-Lt-X7N.text" = "Niederlage ";
+
+/* Class = "UIButton"; normalTitle = "View Profile"; ObjectID = "Vrq-z5-wuv"; */
+"Vrq-z5-wuv.normalTitle" = "Profil anzeigen";
+
+/* Class = "UILabel"; text = "7k"; ObjectID = "WFC-cK-cZm"; */
+"WFC-cK-cZm.text" = "7k";
+
+/* Class = "UILabel"; text = "18h"; ObjectID = "WIr-1M-PP3"; */
+"WIr-1M-PP3.text" = "18h";
+
+/* Class = "UILabel"; text = "Write your Bio..."; ObjectID = "Wdt-qI-don"; */
+"Wdt-qI-don.text" = "Schreiben Sie Bio...";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "Wmc-ER-zNa"; */
+"Wmc-ER-zNa.text" = "Sport";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "X5q-vd-dfM"; */
+"X5q-vd-dfM.text" = "Statistiken";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "X6N-fQ-2ZF"; */
+"X6N-fQ-2ZF.normalTitle" = "Fußball";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "XBm-hd-Hqp"; */
+"XBm-hd-Hqp.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XHl-kV-ZXs"; */
+"XHl-kV-ZXs.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XLX-Oq-f2k"; */
+"XLX-Oq-f2k.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "XgN-b1-LZS"; */
+"XgN-b1-LZS.text" = "Sport";
+
+/* Class = "UILabel"; text = "My Subscribers"; ObjectID = "Xln-G5-qyi"; */
+"Xln-G5-qyi.text" = "Meine Abonnenten";
+
+/* Class = "UILabel"; text = "Story Views"; ObjectID = "Xp5-vS-pRm"; */
+"Xp5-vS-pRm.text" = "Story-Ansichten";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Y3A-Mk-2MG"; */
+"Y3A-Mk-2MG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "YQQ-hT-V35"; */
+"YQQ-hT-V35.text" = "Andere";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YbF-TV-dnV"; */
+"YbF-TV-dnV.text" = "Label";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "YbP-hg-w4N"; */
+"YbP-hg-w4N.text" = "Neues Kennwort";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ynq-AF-7mL"; */
+"Ynq-AF-7mL.text" = "Label";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Yul-9X-OSk"; */
+"Yul-9X-OSk.text" = "Stadt";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yxi-76-I7s"; */
+"Yxi-76-I7s.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z3x-d3-Tf5"; */
+"Z3x-d3-Tf5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z47-5h-OLx"; */
+"Z47-5h-OLx.text" = "Label";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "Z6O-CO-diS"; */
+"Z6O-CO-diS.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "My Subscriptions"; ObjectID = "ZFT-lC-AWR"; */
+"ZFT-lC-AWR.text" = "Meine Abonnements";
+
+/* Class = "UILabel"; text = "Looking for Player"; ObjectID = "ZO7-0V-zmL"; */
+"ZO7-0V-zmL.text" = "auf der Suche nach Spieler";
+
+/* Class = "UILabel"; text = "This person follow you"; ObjectID = "ZSO-8O-H5h"; */
+"ZSO-8O-H5h.text" = "Diese Person folgt Ihnen";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZTQ-E0-juj"; */
+"ZTQ-E0-juj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "ZZu-ts-w5c"; */
+"ZZu-ts-w5c.text" = "Head Coach";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zcw-rh-wLo"; */
+"Zcw-rh-wLo.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZdA-QA-g9l"; */
+"ZdA-QA-g9l.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ZxO-zU-Ays"; */
+"ZxO-zU-Ays.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "a0g-oo-nNb"; */
+"a0g-oo-nNb.text" = "D";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "a0p-Tg-mZ7"; */
+"a0p-Tg-mZ7.text" = "Stadt";
+
+/* Class = "UILabel"; text = "Coach"; ObjectID = "a7Q-w0-SQE"; */
+"a7Q-w0-SQE.text" = "Coach";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "aJ9-to-xm4"; */
+"aJ9-to-xm4.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aW3-bs-hLi"; */
+"aW3-bs-hLi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Now"; ObjectID = "adb-qU-O56"; */
+"adb-qU-O56.text" = "jetzt";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "adm-jR-IIj"; */
+"adm-jR-IIj.text" = "Land";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "asl-Qs-t2B"; */
+"asl-Qs-t2B.text" = "Label";
+
+/* Class = "UILabel"; text = "CM"; ObjectID = "bIh-8U-lJt"; */
+"bIh-8U-lJt.text" = "CM";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "bbx-Bh-1Pi"; */
+"bbx-Bh-1Pi.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "be9-Fx-RDT"; */
+"be9-Fx-RDT.text" = "21";
+
+/* Class = "UILabel"; text = "Khabouchi Abdellah"; ObjectID = "bkt-DC-BwJ"; */
+"bkt-DC-BwJ.text" = "Khabouchi Abdellah";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "bku-sZ-SI4"; */
+"bku-sZ-SI4.normalTitle" = "Folgen";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "blW-c5-wp6"; */
+"blW-c5-wp6.placeholder" = "Suche";
+
+/* Class = "UILabel"; text = "Kharbouchi Abdellah"; ObjectID = "c05-lr-M19"; */
+"c05-lr-M19.text" = "Kharbouchi Abdellah";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "c1e-f8-CZz"; */
+"c1e-f8-CZz.text" = "Land";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c5V-Wr-a67"; */
+"c5V-Wr-a67.text" = "Label";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "c6J-Fg-Kgp"; */
+"c6J-Fg-Kgp.text" = "Lesezeichen";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "cGy-5O-aya"; */
+"cGy-5O-aya.normalTitle" = "Abonnieren";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "cJ3-ky-jBZ"; */
+"cJ3-ky-jBZ.normalTitle" = "Passwort vergessen";
+
+/* Class = "UILabel"; text = "5 mins ago"; ObjectID = "cPq-t7-Drq"; */
+"cPq-t7-Drq.text" = "5 mins ago";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "cTb-jK-kEs"; */
+"cTb-jK-kEs.text" = "As Coach";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "cXv-Oq-j2Q"; */
+"cXv-Oq-j2Q.text" = "Telefon";
+
+/* Class = "UILabel"; text = "Man"; ObjectID = "cYg-Cq-Yc7"; */
+"cYg-Cq-Yc7.text" = "Mann";
+
+/* Class = "UILabel"; text = "Posted"; ObjectID = "cgI-h4-nvM"; */
+"cgI-h4-nvM.text" = "Gesendet";
+
+/* Class = "UILabel"; text = "Messi 2018 Best goals"; ObjectID = "cj7-2o-DwH"; */
+"cj7-2o-DwH.text" = "Messi 2018 Best goals";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cpC-cK-odD"; */
+"cpC-cK-odD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Messi 2018 Best goals"; ObjectID = "ct4-fP-00N"; */
+"ct4-fP-00N.text" = "Messi 2018 Best goals";
+
+/* Class = "UILabel"; text = "View"; ObjectID = "cwc-Fa-QvV"; */
+"cwc-Fa-QvV.text" = "ansehen";
+
+/* Class = "UILabel"; text = "city"; ObjectID = "cx2-oK-EeF"; */
+"cx2-oK-EeF.text" = "Stadt";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "d3I-Oh-2qs"; */
+"d3I-Oh-2qs.text" = "Verein";
+
+/* Class = "UILabel"; text = "7k"; ObjectID = "dTE-3o-hPy"; */
+"dTE-3o-hPy.text" = "7k";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "dV8-QF-Kbk"; */
+"dV8-QF-Kbk.text" = "Zuhause";
+
+/* Class = "UILabel"; text = "Available for Clubs"; ObjectID = "dVY-Su-nB0"; */
+"dVY-Su-nB0.text" = "Verfügbar für Clubs";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "da2-JZ-jlK"; */
+"da2-JZ-jlK.normalTitle" = "Senden";
+
+/* Class = "UILabel"; text = "My Total Profile"; ObjectID = "dcC-0V-iRI"; */
+"dcC-0V-iRI.text" = "Mein Gesamtprofil";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ddp-mt-Lmq"; */
+"ddp-mt-Lmq.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "17,139,971"; ObjectID = "de9-5Z-tSC"; */
+"de9-5Z-tSC.text" = "17,139,971";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "dky-1d-ZCW"; */
+"dky-1d-ZCW.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "doN-gj-dXo"; */
+"doN-gj-dXo.text" = "40";
+
+/* Class = "UILabel"; text = "Agent"; ObjectID = "e3E-2H-Msm"; */
+"e3E-2H-Msm.text" = "Agent";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "eBc-Cl-BXA"; */
+"eBc-Cl-BXA.text" = "Kategorie";
+
+/* Class = "UILabel"; text = "Individual Technique"; ObjectID = "eIb-Kx-wbI"; */
+"eIb-Kx-wbI.text" = "Individuelle Technik";
+
+/* Class = "UILabel"; text = "Stats"; ObjectID = "eUL-Mx-ych"; */
+"eUL-Mx-ych.text" = "Statistiken";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "eVh-aE-sSi"; */
+"eVh-aE-sSi.normalTitle" = "Beitreten";
+
+/* Class = "UILabel"; text = "Frence"; ObjectID = "eXS-Sp-3xZ"; */
+"eXS-Sp-3xZ.text" = "Frence";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "eYu-Gn-blG"; */
+"eYu-Gn-blG.text" = "1";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "ef8-XL-Ylp"; */
+"ef8-XL-Ylp.text" = "Alter";
+
+/* Class = "UILabel"; text = "World"; ObjectID = "ews-qP-KhY"; */
+"ews-qP-KhY.text" = "Welt";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f3s-p7-H71"; */
+"f3s-p7-H71.text" = "Label";
+
+/* Class = "UILabel"; text = "Fullname"; ObjectID = "f6j-Nl-dlt"; */
+"f6j-Nl-dlt.text" = "Fullname";
+
+/* Class = "UIButton"; normalTitle = "Following"; ObjectID = "fAF-pS-TiR"; */
+"fAF-pS-TiR.normalTitle" = "Folgende";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fAJ-8x-0Ec"; */
+"fAJ-8x-0Ec.text" = "Label";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "fFW-Mk-6bk"; */
+"fFW-Mk-6bk.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fGA-Me-FPZ"; */
+"fGA-Me-FPZ.text" = "Label";
+
+/* Class = "UILabel"; text = "views"; ObjectID = "fUL-lx-jRf"; */
+"fUL-lx-jRf.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "fb5-Sv-Fbb"; */
+"fb5-Sv-Fbb.text" = "D";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "fkR-Zh-Q4O"; */
+"fkR-Zh-Q4O.text" = "Nachsehen";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "flo-0G-pd4"; */
+"flo-0G-pd4.normalTitle" = "Stornieren";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fmk-Yx-PHL"; */
+"fmk-Yx-PHL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fpO-Xn-Op5"; */
+"fpO-Xn-Op5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "g1h-ly-rb2"; */
+"g1h-ly-rb2.text" = "  ";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "gAE-hp-kaS"; */
+"gAE-hp-kaS.text" = "Gewicht";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "gDB-iH-5Op"; */
+"gDB-iH-5Op.text" = "Alter";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "gOX-Nm-Gey"; */
+"gOX-Nm-Gey.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "Edit Description"; ObjectID = "gRr-oj-eYH"; */
+"gRr-oj-eYH.text" = "Beschreibung bearbeiten";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "gfw-ci-qev"; */
+"gfw-ci-qev.text" = "Sterne";
+
+/* Class = "UILabel"; text = "Blocked User"; ObjectID = "goO-4o-w3h"; */
+"goO-4o-w3h.text" = "Blockierter Benutzer";
+
+/* Class = "UILabel"; text = "Add Resume"; ObjectID = "h4M-fK-QjS"; */
+"h4M-fK-QjS.text" = "Lebenslauf hinzufügen";
+
+/* Class = "UILabel"; text = "40k"; ObjectID = "hAU-sf-SPy"; */
+"hAU-sf-SPy.text" = "40k";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hDf-k2-SDr"; */
+"hDf-k2-SDr.text" = "Label";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "hGX-4d-GxL"; */
+"hGX-4d-GxL.text" = "As Coach";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hHs-Kg-PSx"; */
+"hHs-Kg-PSx.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "hNs-7l-ury"; */
+"hNs-7l-ury.text" = "1";
+
+/* Class = "UILabel"; text = "Conditions of use"; ObjectID = "hUT-Ck-wFg"; */
+"hUT-Ck-wFg.text" = "Nutzungsbedingungen";
+
+/* Class = "UILabel"; text = "Cm"; ObjectID = "haV-8i-vud"; */
+"haV-8i-vud.text" = "Cm";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "hdY-UA-FJr"; */
+"hdY-UA-FJr.text" = "12";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "hnj-EX-5AV"; */
+"hnj-EX-5AV.text" = "Beschreibung";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "i1U-Wr-C9g"; */
+"i1U-Wr-C9g.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Chnage Password"; ObjectID = "i5n-tM-G15"; */
+"i5n-tM-G15.text" = "Passwort ändern";
+
+/* Class = "UILabel"; text = "Kharbouchi Abdellah"; ObjectID = "ig7-Gv-SwK"; */
+"ig7-Gv-SwK.text" = "Kharbouchi Abdellah";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "ihr-97-bXR"; */
+"ihr-97-bXR.text" = "Land";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "isK-SU-IYm"; */
+"isK-SU-IYm.text" = "Fußball";
+
+/* Class = "UILabel"; text = "Posted"; ObjectID = "iyR-7G-2lf"; */
+"iyR-7G-2lf.text" = "Gesendet";
+
+/* Class = "UILabel"; text = "AC AMIENS"; ObjectID = "j2m-Ap-pzQ"; */
+"j2m-Ap-pzQ.text" = "AC AMIENS";
+
+/* Class = "UILabel"; text = "Draw "; ObjectID = "j7i-lS-2EF"; */
+"j7i-lS-2EF.text" = "Zeichnen ";
+
+/* Class = "UILabel"; text = "Club Name"; ObjectID = "j8h-GQ-mE2"; */
+"j8h-GQ-mE2.text" = "Clubname";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "jMn-it-FkM"; */
+"jMn-it-FkM.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "Ad"; ObjectID = "jOA-Id-cMQ"; */
+"jOA-Id-cMQ.text" = "Anzeige";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "jS4-w0-eX0"; */
+"jS4-w0-eX0.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jWf-TW-LPd"; */
+"jWf-TW-LPd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tactics"; ObjectID = "jaq-Wm-1Xb"; */
+"jaq-Wm-1Xb.text" = "Taktik";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "jcW-aJ-xQm"; */
+"jcW-aJ-xQm.text" = "Zuhause";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jit-DT-QTb"; */
+"jit-DT-QTb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "jjm-aW-NyU"; */
+"jjm-aW-NyU.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "Andrea Romanic Against Kochi FC"; ObjectID = "jo0-98-fTi"; */
+"jo0-98-fTi.text" = "Andrea Romanic Against Kochi FC";
+
+/* Class = "UILabel"; text = "Posted"; ObjectID = "jxD-gR-cCL"; */
+"jxD-gR-cCL.text" = "Gesendet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jxd-uk-qeh"; */
+"jxd-uk-qeh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Retype Password"; ObjectID = "kEk-Hl-14h"; */
+"kEk-Hl-14h.text" = "Passwort erneut eingeben";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "kHh-aO-GUM"; */
+"kHh-aO-GUM.text" = "Sport";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kv4-KO-jnZ"; */
+"kv4-KO-jnZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "National"; ObjectID = "lGh-ch-0bn"; */
+"lGh-ch-0bn.text" = "Nationalen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lXh-j9-8gV"; */
+"lXh-j9-8gV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Player"; ObjectID = "lam-jo-dkd"; */
+"lam-jo-dkd.normalTitle" = "Spieler";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "lmD-tM-oa8"; */
+"lmD-tM-oa8.text" = "Lesezeichen";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "lmd-GD-LtY"; */
+"lmd-GD-LtY.text" = "Position";
+
+/* Class = "UILabel"; text = "Hello, how are you? Good morning!"; ObjectID = "luL-yR-SKy"; */
+"luL-yR-SKy.text" = "Guten Tag, wie geht es dir? Guten Morgen!";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "lvp-7r-cX5"; */
+"lvp-7r-cX5.text" = "21";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "lxC-3U-yOk"; */
+"lxC-3U-yOk.text" = "Benutzername";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "lyK-YI-C3c"; */
+"lyK-YI-C3c.text" = "Verein";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "m0v-RI-BWe"; */
+"m0v-RI-BWe.text" = "Position";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mRS-3p-bYv"; */
+"mRS-3p-bYv.text" = "Label";
+
+/* Class = "UILabel"; text = "reply: 30min ago"; ObjectID = "mRU-z5-Pkg"; */
+"mRU-z5-Pkg.text" = "antwort: vor 30min";
+
+/* Class = "UILabel"; text = "V"; ObjectID = "mTa-wU-1th"; */
+"mTa-wU-1th.text" = "V";
+
+/* Class = "UILabel"; text = "CF"; ObjectID = "mZl-fq-Rn8"; */
+"mZl-fq-Rn8.text" = "CF";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "mac-wc-AD1"; */
+"mac-wc-AD1.text" = "Fußball";
+
+/* Class = "UILabel"; text = "NEWS"; ObjectID = "mmQ-EJ-PEK"; */
+"mmQ-EJ-PEK.text" = "Nachrichten";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "mv3-FJ-IXK"; */
+"mv3-FJ-IXK.text" = "Kg";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mwm-qX-R4d"; */
+"mwm-qX-R4d.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nCK-R1-K0l"; */
+"nCK-R1-K0l.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "nqB-cA-q0i"; */
+"nqB-cA-q0i.normalTitle" = "Folgen";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "nru-1U-atw"; */
+"nru-1U-atw.text" = "Position";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "nvo-pp-Wuj"; */
+"nvo-pp-Wuj.text" = "Statistiken";
+
+/* Class = "UILabel"; text = "Under 17 Gana 2017-2018"; ObjectID = "o8F-7M-fgb"; */
+"o8F-7M-fgb.text" = "Under 17 Gana 2017-2018";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oBY-lu-LyI"; */
+"oBY-lu-LyI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "oFI-8x-eNC"; */
+"oFI-8x-eNC.normalTitle" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "oIL-FE-ydF"; */
+"oIL-FE-ydF.text" = "Geschlecht";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oJx-Vt-Q77"; */
+"oJx-Vt-Q77.text" = "Label";
+
+/* Class = "UILabel"; text = "Create an Ad"; ObjectID = "obQ-P3-Ndn"; */
+"obQ-P3-Ndn.text" = "Erstellen Sie eine Anzeige";
+
+/* Class = "UILabel"; text = "Publish"; ObjectID = "oct-6F-pOF"; */
+"oct-6F-pOF.text" = "Veröffentlichen";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "odp-yr-ks8"; */
+"odp-yr-ks8.normalTitle" = "Anwenden";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ogG-5v-EoH"; */
+"ogG-5v-EoH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "ohs-2b-PJM"; */
+"ohs-2b-PJM.text" = "Land";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ol2-p9-Vop"; */
+"ol2-p9-Vop.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "7k"; ObjectID = "opM-8U-JBu"; */
+"opM-8U-JBu.text" = "7k";
+
+/* Class = "UIButton"; normalTitle = "Woman"; ObjectID = "ovs-wj-GCs"; */
+"ovs-wj-GCs.normalTitle" = "Frau";
+
+/* Class = "UITextField"; placeholder = "Type a message here ..."; ObjectID = "oyg-Q8-mfJ"; */
+"oyg-Q8-mfJ.placeholder" = "Geben Sie hier eine Nachricht ein...";
+
+/* Class = "UILabel"; text = "Most Goal Scored"; ObjectID = "p71-PQ-fdw"; */
+"p71-PQ-fdw.text" = "Die meisten Tore erzielt";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "pDF-3G-6CZ"; */
+"pDF-3G-6CZ.text" = "Katzen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pGD-yB-tjc"; */
+"pGD-yB-tjc.text" = "Label";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "pUc-g8-JbU"; */
+"pUc-g8-JbU.text" = "Spieler";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "pik-25-VX4"; */
+"pik-25-VX4.text" = "Staatsangehörigkeit";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "pnO-s6-c4Z"; */
+"pnO-s6-c4Z.text" = "Katzen";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "pzB-vq-Ve8"; */
+"pzB-vq-Ve8.text" = "Fußball";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "q6r-g5-ZWm"; */
+"q6r-g5-ZWm.text" = "Aktuelles Passwort";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "q7l-GI-hnG"; */
+"q7l-GI-hnG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "qGW-G1-7oX"; */
+"qGW-G1-7oX.text" = "As Coach";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qH6-Qj-kJC"; */
+"qH6-Qj-kJC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "qRp-hv-UCh"; */
+"qRp-hv-UCh.text" = "As Coach";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qu9-rc-eCG"; */
+"qu9-rc-eCG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r9E-5E-TvE"; */
+"r9E-5E-TvE.text" = "Label";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "rAa-tB-nD2"; */
+"rAa-tB-nD2.text" = "Ausloggen";
+
+/* Class = "UIButton"; normalTitle = "Player"; ObjectID = "rJk-mW-fhj"; */
+"rJk-mW-fhj.normalTitle" = "Spieler";
+
+/* Class = "UIButton"; normalTitle = "Other"; ObjectID = "rOd-fu-VoK"; */
+"rOd-fu-VoK.normalTitle" = "Andere";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "rPe-KE-ZKw"; */
+"rPe-KE-ZKw.text" = "Zuhause";
+
+/* Class = "UIButton"; normalTitle = "Discard"; ObjectID = "rh2-co-AKH"; */
+"rh2-co-AKH.normalTitle" = "Verwerfen";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "rik-dM-8mc"; */
+"rik-dM-8mc.text" = "Sport";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "rjJ-Do-dUA"; */
+"rjJ-Do-dUA.text" = "12";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "rl9-Hg-4gX"; */
+"rl9-Hg-4gX.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "Look Up"; ObjectID = "rlf-Wk-8dY"; */
+"rlf-Wk-8dY.text" = "Nachsehen";
+
+/* Class = "UILabel"; text = "Select Football"; ObjectID = "ryP-0a-WB4"; */
+"ryP-0a-WB4.text" = "Select Football";
+
+/* Class = "UILabel"; text = "20k"; ObjectID = "sEK-zg-xoz"; */
+"sEK-zg-xoz.text" = "20k";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sN2-aN-ikQ"; */
+"sN2-aN-ikQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "sPP-fb-TD5"; */
+"sPP-fb-TD5.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sc5-hG-EcT"; */
+"sc5-hG-EcT.text" = "Label";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "sfS-oN-Suz"; */
+"sfS-oN-Suz.text" = "Katzen";
+
+/* Class = "UILabel"; text = "Total Views"; ObjectID = "sgW-n6-eF5"; */
+"sgW-n6-eF5.text" = "Gesamtansichten";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "sl1-DX-aRW"; */
+"sl1-DX-aRW.text" = "21";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "snh-sE-Kio"; */
+"snh-sE-Kio.text" = "Höhe";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sw8-G2-gZ9"; */
+"sw8-G2-gZ9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "t2X-q7-oeI"; */
+"t2X-q7-oeI.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "t41-Eo-fmb"; */
+"t41-Eo-fmb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Defeat "; ObjectID = "t8Q-eO-2P0"; */
+"t8Q-eO-2P0.text" = "Niederlage ";
+
+/* Class = "UILabel"; text = "Looking for :"; ObjectID = "tKv-RE-hPy"; */
+"tKv-RE-hPy.text" = "Auf der Suche nach :";
+
+/* Class = "UIButton"; normalTitle = "Player"; ObjectID = "tXM-r5-gf5"; */
+"tXM-r5-gf5.normalTitle" = "Spieler";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tew-rs-b0x"; */
+"tew-rs-b0x.normalTitle" = "Stornieren";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "tox-HU-tDL"; */
+"tox-HU-tDL.text" = "12";
+
+/* Class = "UILabel"; text = "Audience"; ObjectID = "uGs-lA-MeB"; */
+"uGs-lA-MeB.text" = "Publikum";
+
+/* Class = "UIButton"; normalTitle = "World News Feed"; ObjectID = "uMA-T0-P02"; */
+"uMA-T0-P02.normalTitle" = "World News Feed";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "uTS-Hj-d6c"; */
+"uTS-Hj-d6c.text" = "Zuhause";
+
+/* Class = "UIButton"; normalTitle = "Week"; ObjectID = "uZl-QL-EH2"; */
+"uZl-QL-EH2.normalTitle" = "Woche";
+
+/* Class = "UILabel"; text = "Head Coach"; ObjectID = "uix-Ci-oTD"; */
+"uix-Ci-oTD.text" = "Head Coach";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "v4A-7N-CZC"; */
+"v4A-7N-CZC.text" = "Land";
+
+/* Class = "UIButton"; normalTitle = "Man"; ObjectID = "vCK-Sc-DKD"; */
+"vCK-Sc-DKD.normalTitle" = "Mann";
+
+/* Class = "UILabel"; text = "Agree to our terms and conditions"; ObjectID = "vCZ-0q-f0b"; */
+"vCZ-0q-f0b.text" = "Stimmen Sie unseren Allgemeinen Geschäftsbedingungen zu";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "vPk-3s-M2g"; */
+"vPk-3s-M2g.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "Block"; ObjectID = "vaI-X0-4oB"; */
+"vaI-X0-4oB.text" = "Block";
+
+/* Class = "UILabel"; text = "You cannot access this page"; ObjectID = "vez-jy-bgv"; */
+"vez-jy-bgv.text" = "Sie können nicht auf diese Seite zugreifen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vxt-uQ-G2W"; */
+"vxt-uQ-G2W.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "w9R-18-Jfh"; */
+"w9R-18-Jfh.normalTitle" = "Zurücksetzen";
+
+/* Class = "UIButton"; normalTitle = "Player"; ObjectID = "wH0-ZV-hF6"; */
+"wH0-ZV-hF6.normalTitle" = "Spieler";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "wJV-Qv-7M1"; */
+"wJV-Qv-7M1.text" = "Gewicht";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "wRp-O1-qJ5"; */
+"wRp-O1-qJ5.text" = "Fußball";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "wT5-M1-ziz"; */
+"wT5-M1-ziz.text" = "Sterne";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "wVC-Lv-MFO"; */
+"wVC-Lv-MFO.text" = "Botschaft";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "waL-k7-2HI"; */
+"waL-k7-2HI.text" = "Spezialität";
+
+/* Class = "UILabel"; text = "Draw "; ObjectID = "won-7p-qjs"; */
+"won-7p-qjs.text" = "Zeichnen ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "xFM-hX-zd5"; */
+"xFM-hX-zd5.text" = "Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "xJf-mp-5c1"; */
+"xJf-mp-5c1.text" = "Email";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "xZe-Jn-wnT"; */
+"xZe-Jn-wnT.text" = "Allgemeine Geschäftsbedingungen";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "y5G-aZ-Gvf"; */
+"y5G-aZ-Gvf.text" = "D";
+
+/* Class = "UILabel"; text = "3k"; ObjectID = "y8w-XN-rib"; */
+"y8w-XN-rib.text" = "3k";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yE8-Vw-tJd"; */
+"yE8-Vw-tJd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yJP-sr-eL6"; */
+"yJP-sr-eL6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "yMu-Gy-gsx"; */
+"yMu-Gy-gsx.text" = "Tag";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yOP-7R-hHB"; */
+"yOP-7R-hHB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Football"; ObjectID = "yP1-Vg-8qO"; */
+"yP1-Vg-8qO.normalTitle" = "Fußball";
+
+/* Class = "UILabel"; text = "This is a automated message to all new members from the designing team."; ObjectID = "yWC-ny-I8Z"; */
+"yWC-ny-I8Z.text" = "Dies ist eine automatisierte Nachricht an alle neuen Mitglieder aus dem Designteam.";
+
+/* Class = "UILabel"; text = "Andrea Romanic Against Kochi FC"; ObjectID = "yiH-EB-yR3"; */
+"yiH-EB-yR3.text" = "Andrea Romanic Against Kochi FC";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "yoc-Hu-jJ6"; */
+"yoc-Hu-jJ6.text" = "Katzen";
+
+/* Class = "UILabel"; text = "This page is not accessible for your account type, You can change account type from the settings"; ObjectID = "yvL-UZ-CgJ"; */
+"yvL-UZ-CgJ.text" = "Diese Seite ist für Ihren Kontotyp nicht zugänglich, Sie können den Kontotyp über die Einstellungen ändern";
+
+/* Class = "UILabel"; text = "Select Sport"; ObjectID = "yyO-Cg-Ezm"; */
+"yyO-Cg-Ezm.text" = "Wählen Sie Sport";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "z2K-MO-0KM"; */
+"z2K-MO-0KM.text" = "Verein";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z2N-KT-EbG"; */
+"z2N-KT-EbG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "V"; ObjectID = "z4I-VB-pHL"; */
+"z4I-VB-pHL.text" = "V";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "z57-nN-KFr"; */
+"z57-nN-KFr.text" = "Fußball";
+
+/* Class = "UILabel"; text = "10k"; ObjectID = "z6p-W9-tTF"; */
+"z6p-W9-tTF.text" = "10k";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "z9W-V8-B9Y"; */
+"z9W-V8-B9Y.text" = "Kategorie";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "z9n-6d-xK7"; */
+"z9n-6d-xK7.text" = "Jahre";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "zBC-Xj-LH5"; */
+"zBC-Xj-LH5.text" = "Katzen";
+
+/* Class = "UILabel"; text = "Club"; ObjectID = "zbY-PD-pwk"; */
+"zbY-PD-pwk.text" = "Verein";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zc4-u3-0pK"; */
+"zc4-u3-0pK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Views"; ObjectID = "zci-Ak-Pno"; */
+"zci-Ak-Pno.text" = "Ansichten";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "zkU-RJ-fpK"; */
+"zkU-RJ-fpK.text" = "Name";
+
+/* Class = "UILabel"; text = "22k Subscriptions"; ObjectID = "zmD-qm-YUm"; */
+"zmD-qm-YUm.text" = "22k Abonnements";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "zsq-MZ-TLe"; */
+"zsq-MZ-TLe.text" = "Botschaft";
