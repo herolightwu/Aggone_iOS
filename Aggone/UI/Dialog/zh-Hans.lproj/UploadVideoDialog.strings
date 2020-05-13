@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "4K8-dq-FqE"; */
+"4K8-dq-FqE.normalTitle" = "上传";
+
+/* Class = "UILabel"; text = "Upload A Video"; ObjectID = "5ib-n6-h3V"; */
+"5ib-n6-h3V.text" = "下载视频";
+
+/* Class = "UIButton"; normalTitle = "YouTube Link"; ObjectID = "CW7-IF-gi1"; */
+"CW7-IF-gi1.normalTitle" = "Youtube链接";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "PfS-eQ-TpJ"; */
+"PfS-eQ-TpJ.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "QC8-lL-w0o"; */
+"QC8-lL-w0o.text" = "资源";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rD1-77-8T8"; */
+"rD1-77-8T8.text" = "标题";

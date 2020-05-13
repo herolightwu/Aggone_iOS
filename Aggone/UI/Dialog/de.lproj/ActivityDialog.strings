@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "2cc-Qz-6GP"; */
+"2cc-Qz-6GP.text" = "Player";
+
+/* Class = "UILabel"; text = "Staff"; ObjectID = "9OD-sA-tnm"; */
+"9OD-sA-tnm.text" = "Staff";
+
+/* Class = "UILabel"; text = "Brand/Sponsor/Media..."; ObjectID = "Elr-RK-lvX"; */
+"Elr-RK-lvX.text" = "Brand/Sponsor/Media...";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "IdW-ya-UNs"; */
+"IdW-ya-UNs.text" = "Company";
+
+/* Class = "UILabel"; text = "Agent"; ObjectID = "qJo-Np-172"; */
+"qJo-Np-172.text" = "Agent";
+
+/* Class = "UILabel"; text = "Coach"; ObjectID = "rzV-9f-FxF"; */
+"rzV-9f-FxF.text" = "Coach";
+
+/* Class = "UILabel"; text = "Team / Club"; ObjectID = "u5g-qn-JoU"; */
+"u5g-qn-JoU.text" = "Team / Club";

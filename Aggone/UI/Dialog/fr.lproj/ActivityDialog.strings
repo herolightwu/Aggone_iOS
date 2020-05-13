@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "As Player"; ObjectID = "0Vx-t0-kaa"; */
+"0Vx-t0-kaa.text" = "joueur";
+
+/* Class = "UILabel"; text = "As Coach"; ObjectID = "ZUB-js-ZO8"; */
+"ZUB-js-ZO8.text" = "entraîneur";

@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "4K8-dq-FqE"; */
+"4K8-dq-FqE.normalTitle" = "Upload";
+
+/* Class = "UILabel"; text = "Upload A Video"; ObjectID = "5ib-n6-h3V"; */
+"5ib-n6-h3V.text" = "Upload A Video";
+
+/* Class = "UIButton"; normalTitle = "YouTube Link"; ObjectID = "CW7-IF-gi1"; */
+"CW7-IF-gi1.normalTitle" = "YouTube Link";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "PfS-eQ-TpJ"; */
+"PfS-eQ-TpJ.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "YouTube Link"; ObjectID = "QC8-lL-w0o"; */
+"QC8-lL-w0o.text" = "YouTube Link";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rD1-77-8T8"; */
+"rD1-77-8T8.text" = "Title";
